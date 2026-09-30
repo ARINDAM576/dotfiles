@@ -1,0 +1,66 @@
+/* Catppuccin Mocha Floating Island */
+* {
+    font: "JetBrainsMono Nerd Font 10";
+    bg: rgba(30, 30, 46, 0.92);
+    surface: rgba(49, 50, 68, 0.85);
+    text: #cdd6f4;
+    mauve: #cba6f7;
+    border-col: #45475a;
+}
+
+window {
+    transparency: "real";
+    background-color: @bg;
+    border: 1.5px;
+    border-color: @border-col;
+    border-radius: 16px;
+    
+    /* Anchored to top-right directly below your right capsules */
+    location: north east;
+    anchor: north east;
+    x-offset: -12px;
+    y-offset: 42px; /* Clears your 32px Waybar + margin */
+    
+    width: 280px;
+    padding: 10px;
+}
+
+mainbox {
+    background-color: transparent;
+    children: [ listview ];
+}
+
+listview {
+    background-color: transparent;
+    columns: 1;
+    lines: 4;
+    cycle: true;
+    scrollbar: false;
+    spacing: 6px;
+}
+
+element {
+    background-color: transparent;
+    text-color: @text;
+    border-radius: 10px;
+    padding: 8px 12px;
+    orientation: horizontal;
+    cursor: pointer;
+}
+
+element selected {
+    background-color: @surface;
+    text-color: @mauve;
+}
+
+element-icon {
+    size: 20px;
+    margin: 0 10px 0 0;
+    background-color: transparent;
+}
+
+element-text {
+    background-color: transparent;
+    text-color: inherit;
+    vertical-align: 0.5;
+}

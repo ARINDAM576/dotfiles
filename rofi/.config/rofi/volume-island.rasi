@@ -1,0 +1,81 @@
+
+* {
+    font: "JetBrainsMono Nerd Font 10";
+    bg: rgba(30, 30, 46, 0.2);
+    surface: rgba(49, 50, 68, 0.75);
+    text: #cdd6f4;
+    subtext: #a6adc8;
+    mauve: #cba6f7;
+    border-col: #45475a;
+    pink: #f5c2e7;
+}
+
+window {
+    transparency: "real";
+    background-color: @bg;
+    border: 2.5px;
+    border-color: @pink;
+    border-radius: 16px;
+
+    /* Anchor point stays top-right of the screen, but "anchor: north" means
+       the WINDOW's top-center (not its corner) is what gets placed there -
+       so it self-centers under the pill instead of drifting if its width
+       ever changes. y-offset is small since Hyprland's layer-shell already
+       reserves the bar's height, so this only needs to clear the gap
+       between the bar and the popup, not the whole bar itself. */
+    location: north east;
+    anchor: north;
+    x-offset: -111px;
+    y-offset: 8px;
+
+    width: 340px;
+    padding: 10px;
+}
+
+mainbox {
+    background-color: transparent;
+    children: [ message, listview ];
+    spacing: 8px;
+}
+
+message {
+    background-color: transparent;
+    border: 0px 0px 1px 0px;
+    border-color: @border-col;
+    padding: 0px 4px 8px 4px;
+}
+
+textbox {
+    background-color: transparent;
+    text-color: @subtext;
+    font: "JetBrainsMono Nerd Font 8";
+}
+
+listview {
+    background-color: transparent;
+    columns: 1;
+    lines: 3;
+    cycle: true;
+    scrollbar: false;
+    spacing: 4px;
+}
+
+element {
+    background-color: transparent;
+    text-color: @text;
+    border-radius: 10px;
+    padding: 8px 10px;
+    orientation: horizontal;
+    cursor: pointer;
+}
+
+element selected {
+    background-color: @surface;
+    text-color: @mauve;
+}
+
+element-text {
+    background-color: transparent;
+    text-color: inherit;
+    vertical-align: 0.5;
+}

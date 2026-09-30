@@ -1,0 +1,19 @@
+# Set your primary eye-candy wallpapers directory
+[general]
+directory = "~/Pictures/wallpapers"
+
+# Set the backend engine (awww is default, but explicit configuration prevents conflicts)
+backend = "awww"
+
+[window]
+position = "top"
+background = "#1818251A"
+# preview = true
+
+[grid]
+columns = 3
+
+# Optional: Add custom shell generation parameters (like Matugen or Pywal UI accents)
+[hooks]
+on_apply = ["awww img {path} --transition-type wave --transition-angle 30 --transition-fps 60 --transition-duration 1.8 --transition-wave 25,25"]
+

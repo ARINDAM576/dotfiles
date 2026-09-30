@@ -1,0 +1,12 @@
+[pyprland]
+plugins = ["scratchpads"]
+
+[scratchpads.spotify]
+animation = "fromTop"
+command = "flatpak run com.spotify.Client"
+class = "spotify"
+size = "75% 70%"
+lazy = true
+unfocus = "hide"
+process_tracking = false
+

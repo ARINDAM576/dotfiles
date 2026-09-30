@@ -1,0 +1,32 @@
+{
+	"all": {
+		"changeLogs": {
+			"BDFDB": "4.4.3",
+			"CharCounter": "1.7.1",
+			"FriendNotifications": "2.1.4",
+			"ImageUtilities": "5.6.5",
+			"LastMessageDate": "1.5.5",
+			"PersonalPins": "2.3.2",
+			"ReadAllNotificationsButton": "1.8.5",
+			"ServerCounter": "1.1.1",
+			"ShowBadgesInChat": "2.1.5",
+			"ShowConnections": "1.3.1",
+			"SpotifyControls": "1.5.2",
+			"StaffTag": "1.7.1"
+		},
+		"choices": {
+			"toastPosition": "right"
+		},
+		"general": {
+			"shareData": true,
+			"showToasts": true,
+			"checkForUpdates": false,
+			"showSupportBadges": false,
+			"useChromium": false
+		},
+		"hashes": {
+			"0BDFDB.data.json": "57c2fcc473eb40714c5c0ebb365cd70d5b0f0cf7",
+			"0BDFDB.raw.css": "b204f8d3ab7090c27feeabf93286b9f634ddfe2e"
+		}
+	}
+}

@@ -1,0 +1,9 @@
+{
+    "settings": {
+        "sendDirectly": true,
+        "ignoreEmbedPermissions": false,
+        "shouldSendAnimatedStickers": true,
+        "shouldHighlightAnimated": true,
+        "stickerSize": 160
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "allKnownButtons": [
+        "gift",
+        "gif",
+        "sticker",
+        "emoji",
+        "appLauncher"
+    ],
+    "gift": true,
+    "appLauncher": true,
+    "gif": false,
+    "sticker": false,
+    "emoji": false
+}

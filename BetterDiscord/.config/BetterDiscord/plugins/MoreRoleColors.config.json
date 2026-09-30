@@ -1,0 +1,27 @@
+{
+    "lastVersion": "2.0.8",
+    "settings": {
+        "voiceUsers": true,
+        "voiceUsersGradient": true,
+        "speakingIndicator": true,
+        "typingUsers": true,
+        "typingUsersGradient": true,
+        "mentions": true,
+        "mentionsGradient": true,
+        "accountArea": true,
+        "accountAreaGradient": true,
+        "textEditor": true,
+        "textEditorGradient": true,
+        "auditLog": true,
+        "auditLogGradient": true,
+        "roleHeaders": true,
+        "roleHeadersGradient": true,
+        "messages": true,
+        "messagesGradient": true,
+        "userProfile": false,
+        "userProfileGradient": true,
+        "serverProfileDisplayName": true,
+        "serverProfileDisplayNameGradient": true,
+        "Tags": true
+    }
+}

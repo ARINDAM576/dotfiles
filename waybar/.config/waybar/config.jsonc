@@ -1,0 +1,378 @@
+// -*- mode: jsonc -*-
+{
+    "layer": "top",
+    "position": "top",
+    "height": 33,
+    "margin-top": 4,
+    "margin-left": 3,
+    "margin-right": 3,
+    "spacing": 4,
+    "modules-left": [
+        "group/left-island",
+        "custom/cava"
+    ],
+    "group/left-island": {
+        "orientation": "inherit",
+        "modules": [
+            "group/battery-drawer",
+            "hyprland/workspaces",
+            "hyprland/submap"
+        ]
+    },
+    "modules-center": [
+        "hyprland/window"
+    ],
+    "modules-right": [
+        "group/brightness-and-audio",
+        "group/network-drawer",
+        "idle_inhibitor",
+        "group/hardware",
+        "custom/notification",
+        "group/clock-drawer"
+    ],
+    "hyprland/workspaces": {
+        "disable-scroll": false,
+        "all-outputs": false,
+        "warp-on-scroll": true,
+        "on-click": "paplay --volume=32768 ~/.config/waybar/sounds/click.mp3",
+        "on-scroll-up": "hyprctl dispatch workspace e+1",
+        "on-scroll-down": "hyprctl dispatch workspace e-1",
+        "format": "{name} {icon}  ",
+        "ignored-workspaces": [ "88" ],
+        "format-icons": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "urgent": "",
+            "focused": "",
+            "default": ""
+        }
+    },
+    "keyboard-state": {
+        "numlock": true,
+        "capslock": true,
+        "format": "{name} {icon}",
+        "format-icons": {
+            "locked": "",
+            "unlocked": ""
+        }
+    },
+    "hyprland/submap": {
+        "format": "<span style=\"italic\">{}</span>"
+    },
+    "hyprland/scratchpad": {
+        "format": "{icon} {count}",
+        "show-empty": false,
+        "format-icons": ["", ""],
+        "tooltip": true,
+        "tooltip-format": "{app}: {title}"
+    },
+    "hyprland/window": {
+        "max-length": 40
+    },
+    "custom/cava": {
+        "exec": "python3 /home/arindamlegend/.config/waybar/cava.py",
+        "format": "{}",
+        "return-type": "json",
+        "tooltip": false,
+        "on-click": "playerctl play-pause && (paplay ~/.config/waybar/sounds/click.mp3 &)",
+        "on-click-right": "bash /home/arindamlegend/.config/waybar/jumptoplayer.sh",
+        "on-scroll-up": "playerctl next",
+        "on-scroll-down": "playerctl previous"
+    },
+    "mpd": {
+        "format": "{stateIcon} {consumeIcon}{randomIcon}{repeatIcon}{singleIcon}{artist} - {album} - {title} ({elapsedTime:%M:%S}/{totalTime:%M:%S}) ⸨{songPosition}|{queueLength}⸩ {volume}% ",
+        "format-disconnected": "Disconnected ",
+        "format-stopped": "{consumeIcon}{randomIcon}{repeatIcon}{singleIcon}Stopped ",
+        "unknown-tag": "N/A",
+        "interval": 5,
+        "consume-icons": {
+            "on": " "
+        },
+        "random-icons": {
+            "off": "<span color=\"#f53c3c\"></span> ",
+            "on": " "
+        },
+        "repeat-icons": {
+            "on": " "
+        },
+        "single-icons": {
+            "on": "1 "
+        },
+        "state-icons": {
+            "paused": "",
+            "playing": ""
+        },
+        "tooltip-format": "MPD (connected)",
+        "tooltip-format-disconnected": "MPD (disconnected)"
+    },
+    "idle_inhibitor": {
+        "on-click": "paplay --volume=32768 ~/.config/waybar/sounds/click.mp3",
+        "format": "{icon}",
+        "format-icons": {
+            "activated": " ",
+            "deactivated": " "
+        }
+    },
+    "tray": {
+        "on-click": "paplay --volume=32768 ~/.config/waybar/sounds/click.mp3",
+        "icon-size": 21,
+        "spacing": 10
+    },
+    "clock": {
+        "format": "{:%I:%M %p}",
+        "locale": "en_US.UTF-8",
+        "on-click": "paplay --volume=32768 ~/.config/waybar/sounds/click.mp3",
+        "tooltip-format": "<big>{:%Y-%m-%d}</big>\n<tt><small>{calendar}</small></tt>",
+        "format-alt": "{:%A, %B %d}"
+    },
+    "cpu": {
+        "format": "{usage}%  ",
+        "tooltip": false
+    },
+    "memory": {
+        "format": "{}%  "
+    },
+    "temperature": {
+        "thermal-zone": 2,
+        "hwmon-path": "/sys/class/hwmon/hwmon2/temp1_input",
+        "critical-threshold": 80,
+        "format-critical": "{temperatureC}°C {icon}",
+        "format": "{temperatureC}°C {icon}",
+        "format-icons": ["", "", ""]
+    },
+    "backlight": {
+        "device": "acpi_video1",
+        "format": "{percent}% {icon}",
+        "format-icons": ["", "", "", "", "", "", "", "", ""]
+    },
+    "group/battery-drawer": {
+        "orientation": "inherit",
+        "drawer": {
+            "transition-duration": 400,
+            "children-class": "battery-child",
+            "transition-left-to-right": true
+        },
+        "modules": [
+            "battery#icon",
+            "battery#percentage"
+        ]
+    },
+    "battery#icon": {
+        /*"bat": "test_battery",
+        "adapter": "test_ac",*/
+        "interval": 2,
+        "states": {
+            "good": 95,
+            "warning": 30,
+            "critical": 15
+        },
+        "format": "{icon}",
+        "format-charging": "󰂄",
+        "format-plugged": "󰚥",
+        "format-warning": "{icon} {capacity}%",
+        "format-critical": "{icon} {capacity}%",
+        "format-plugged-warning": "{icon} {capacity}%",
+        "format-warning-plugged": "{icon} {capacity}%",
+        "format-plugged-critical": "{icon} {capacity}%",
+        "format-critical-plugged": "{icon} {capacity}%",
+        "format-icons": ["󰂃", "󰁺", "󰁻", "󰁼", "󰁽", "󰁾", "󰁿", "󰂀", "󰂁", "󰂂", "󰁹"],
+        "format-time": "{H}h {M}m",
+        "tooltip-format": "{timeTo}\nHealth: {health}%"
+    },
+    "battery#percentage": {
+        /*"bat": "test_battery",
+        "adapter": "test_ac",*/
+        "interval": 2,
+        "states": {
+            "warning": 30,
+            "critical": 15
+        },
+        "format": "{capacity}%",
+        "format-charging": "{capacity}%",
+        "format-plugged": "{capacity}%",
+        "tooltip": false
+    },
+    "power-profiles-daemon": {
+        "on-click": "paplay --volume=32768 ~/.config/waybar/sounds/click.mp3",
+        "format": "{icon}",
+        "tooltip-format": "Power profile: {profile}\nDriver: {driver}",
+        "tooltip": true,
+        "format-icons": {
+            "default": "    ",
+            "performance": "    ",
+            "balanced": "   ",
+            "power-saver": "   "
+        }
+    },
+    "group/network-drawer": {
+        "orientation": "horizontal",
+        "drawer": {
+            "transition-duration": 300,
+            "children-class": "network-child",
+            "transition-left-to-right": true
+        },
+        "modules": [
+            "network#icon",
+            "network#name"
+        ]
+    },
+
+    "network#icon": {
+        "interval": 3,
+        "format-wifi": "{icon}",
+        "format-ethernet": "",
+        "format-linked": "",
+        "format-disconnected": "󰤮",
+        "format-icons": ["󰤯", "󰤟", "󰤢", "󰤥", "󰤨"],
+        "tooltip-format-wifi": "{essid} ({signalStrength}%)\n⇣ {bandwidthDownBytes}  ⇡ {bandwidthUpBytes}\nIP: {ipaddr}/{cidr}\nLeft-click to open Network Panel",
+        "tooltip-format-ethernet": "Ethernet ({ifname})\n⇣ {bandwidthDownBytes}  ⇡ {bandwidthUpBytes}\nIP: {ipaddr}/{cidr}\nLeft-click to open Network Panel",
+        "tooltip-format-disconnected": "Disconnected\nLeft-click to open Network Panel",
+        "on-click": "~/.config/rofi/network-island.sh"
+    },
+
+    "network#name": {
+        "interval": 3,
+        // Shows friendly "Ethernet" on LAN, or SSID on Wi-Fi
+        "format-wifi": "{essid}",
+        "format-ethernet": "Ethernet",
+        "format-linked": "Connecting...",
+        "format-disconnected": "Offline",
+        "tooltip": true,
+        "tooltip-format-wifi": "{essid} ({signalStrength}%)\n⇣ {bandwidthDownBytes}  ⇡ {bandwidthUpBytes}\nLeft-click to open Network Panel",
+        "tooltip-format-ethernet": "Ethernet\n⇣ {bandwidthDownBytes}  ⇡ {bandwidthUpBytes}\nLeft-click to open Network Panel",
+        "tooltip-format-disconnected": "Disconnected\nLeft-click to open Network Panel",
+        "max-length": 14,
+        "on-click": "~/.config/rofi/network-island.sh"
+    },
+    "group/brightness-and-audio": {
+        "orientation": "horizontal",
+        "modules": [
+            "custom/brightness",
+            "pulseaudio"
+        ]
+    },
+    "pulseaudio": {
+        "format": "{volume}% {icon} {format_source}",
+        "format-bluetooth": "{volume}% {icon} {format_source}",
+        "format-bluetooth-muted": " {icon} {format_source}",
+        "format-muted": " {format_source}",
+        "format-source": " ",
+        "format-source-muted": "  ",
+        "format-icons": {
+            "headphone": "",
+            "hands-free": "",
+            "headset": "",
+            "phone": "",
+            "portable": "",
+            "car": "",
+            "default": ["", "", ""]
+        },
+        "tooltip-format": "{desc}\n(Scroll, Middle-click to mute)\nRight-click to mute Input\nVolume Panel (Left-click)",
+        "on-click": "paplay --volume=32768 ~/.config/waybar/sounds/click.mp3 & ~/.config/rofi/volume-island.sh",
+        "on-click-middle": "wpctl set-mute @DEFAULT_AUDIO_SINK@ toggle & paplay --volume=32768 ~/.config/waybar/sounds/vol.mp3",
+        "on-click-right": "wpctl set-mute @DEFAULT_AUDIO_SOURCE@ toggle & paplay --volume=32768 ~/.config/waybar/sounds/click.mp3",
+        "on-scroll-up": "wpctl set-volume -l 1.5 @DEFAULT_AUDIO_SINK@ 5%+ & paplay --volume=32768 ~/.config/waybar/sounds/vol.mp3",
+        "on-scroll-down": "wpctl set-volume @DEFAULT_AUDIO_SINK@ 5%- & paplay --volume=32768 ~/.config/waybar/sounds/vol.mp3"
+    },
+    "custom/brightness": {
+        "format": "{percentage}% {icon}",
+        "format-icons": {
+            "auto": "󰃡 ",
+            "default": ["󰃞 ", "󰃟 ", "󰃠 "]
+        },
+        "return-type": "json",
+        "exec": "bash /home/arindamlegend/.config/waybar/brightness.sh get",
+        "on-click": "bash /home/arindamlegend/.config/waybar/brightness.sh toggle-auto & paplay --volume=32768 ~/.config/waybar/sounds/click.mp3",
+        "on-scroll-up": "bash /home/arindamlegend/.config/waybar/brightness.sh up & paplay --volume=32768 ~/.config/waybar/sounds/vol.mp3",
+        "on-scroll-down": "bash /home/arindamlegend/.config/waybar/brightness.sh down & paplay --volume=32768 ~/.config/waybar/sounds/vol.mp3",
+        "signal": 8,
+        "interval": 10,
+        "tooltip": true
+    },
+    "custom/power": {
+        "format" : " ⏻  ",
+        "tooltip": false,
+        "menu": "on-click",
+        "menu-file": "/home/arindamlegend/.config/waybar/power_menu.xml",
+        "menu-actions": {
+            "Shutdown": "shutdown",
+            "Reboot": "reboot",
+            "Suspend": "systemctl suspend",
+            "Logout": "hyprctl dispatch exit"
+        }
+    },
+    "group/hardware": {
+        "orientation": "horizontal",
+        "drawer": {
+            "transition-duration": 500,
+            "children-class": "not-memory",
+            "transition-left-to-right": false
+        },
+        "modules": [
+            "custom/hw-icon",
+            "cpu",
+            "memory",
+            "temperature",
+            "power-profiles-daemon"
+        ]
+    },
+    "custom/hw-icon": {
+        "format": "",
+        "tooltip": false
+    },
+    "group/tray-drawer": {
+        "orientation": "horizontal",
+        "drawer": {
+            "transition-duration": 300,
+            "children-class": "tray-child",
+            "transition-left-to-right": false,
+            "click-to-reveal": true
+        },
+        "modules": [
+            "custom/tray-toggle",
+            "tray"
+        ]
+    },
+    "custom/tray-toggle": {
+        "format": "",
+        "tooltip": true,
+        "tooltip-format": "Background Apps"
+    },
+    "tray": {
+        "icon-size": 16,
+        "spacing": 8
+    },
+    "group/clock-drawer": {
+        "orientation": "horizontal",
+        "drawer": {
+            "transition-duration": 400,
+            "children-class": "clock-child",
+            "transition-left-to-right": true
+        },
+        "modules": [
+            "clock",
+            // Directly exposes background tray icons when hovered
+            "group/tray-drawer",
+            "custom/power"
+        ]
+    },
+    "custom/notification": {
+        "tooltip": false,
+        "format": "{icon}",
+        "format-icons": {
+            "none": " ",
+            "notification": "<span foreground='#f38ba8'><sup> </sup></span>",
+            "dnd-none": " ",
+            "dnd-notification": "<span foreground='#f38ba8'><sup> </sup></span>"
+        },
+        "return-type": "json",
+        "exec-if": "which swaync-client",
+        "exec": "swaync-client -swb",
+        "on-click": "swaync-client -t -sw",
+        "on-click-right": "swaync-client -d -sw",
+        "escape": true
+    }
+}

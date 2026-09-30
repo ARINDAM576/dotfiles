@@ -1,0 +1,10 @@
+{
+    "settings": {
+        "guilds": true,
+        "friends": false,
+        "friendsOnline": true,
+        "pending": false,
+        "blocked": false,
+        "interval": false
+    }
+}

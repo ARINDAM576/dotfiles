@@ -1,0 +1,37 @@
+{
+    "settings": {
+        "accent": {
+            "h": 24,
+            "s": 68,
+            "l": 30,
+            "textColor": "#ffffff"
+        },
+        "dark": {
+            "saturationModifier": 300,
+            "lightnessModifier": 225,
+            "textLightnessModifier": 1000
+        },
+        "light": {
+            "saturationModifier": 750,
+            "lightnessModifier": 2125
+        },
+        "button": {
+            "height": 40,
+            "radius": 20,
+            "padding": 16
+        },
+        "message": {
+            "radius": 18,
+            "paddingTop": 8,
+            "paddingSide": 12
+        },
+        "card": {
+            "radiusSmall": 8,
+            "radiusBig": 18
+        },
+        "popout": {
+            "radiusSmall": 8,
+            "radiusBig": 18
+        }
+    }
+}

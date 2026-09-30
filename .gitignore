@@ -1,0 +1,20 @@
+# OS / Editor clutter
+.DS_Store
+Thumbs.db
+*.swp
+*~
+*.bak
+
+# Runtime sockets & logs
+*.log
+*.sock
+
+# Machine-specific overrides
+hypr/.config/hypr/monitors.conf
+hypr/.config/hypr/device.conf
+
+# Personal keys & tokens
+*.pem
+*.key
+*token*
+*secret*

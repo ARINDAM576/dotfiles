@@ -1,0 +1,3406 @@
+{
+	"all": {
+		"badgeCache": {
+			"1014162218042003516": {
+				"badges": [
+					{
+						"id": "hypesquad_house_1",
+						"description": "HypeSquad Bravery",
+						"icon": "8a88d63823d8a71cd5e390baa45efa02"
+					},
+					{
+						"id": "legacy_username",
+						"description": "Originally known as Aaradhy pathak#5520",
+						"icon": "6de6d34650760ba5551a79732e98ed60"
+					},
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					}
+				],
+				"date": 1768492223711
+			},
+			"1016963524989296661": {
+				"badges": [
+					{
+						"id": "premium",
+						"description": "Subscriber since Dec 17, 2025",
+						"icon": "2ba85e8026a8614b640c2837bcdfe21b",
+						"link": "https://discord.com/settings/premium"
+					},
+					{
+						"id": "guild_booster_lvl1",
+						"description": "Server boosting since Dec 17, 2025",
+						"icon": "51040c70d4f20a921ad6674ff86fc95c",
+						"link": "https://discord.com/settings/premium"
+					},
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					},
+					{
+						"id": "orb_profile_badge",
+						"description": "Collected the Orb Profile Badge",
+						"icon": "83d8a1eb09a8d64e59233eec5d4d5c2d"
+					}
+				],
+				"date": 1766329503115
+			},
+			"1020746949307150397": {
+				"badges": [
+					{
+						"id": "hypesquad_house_2",
+						"description": "HypeSquad Brilliance",
+						"icon": "011940fd013da3f7fb926e4a1cd2e618"
+					},
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					}
+				],
+				"date": 1766325841062
+			},
+			"102528230413578240": {
+				"badges": [
+					{
+						"id": "premium_tenure_36_month_v2",
+						"description": "Earned Nov 10, 2021. 3 years: Emerald",
+						"icon": "11e2d339068b55d3a506cff34d3780f3",
+						"link": "https://discord.com/settings/premium"
+					},
+					{
+						"id": "hypesquad_house_2",
+						"description": "HypeSquad Brilliance",
+						"icon": "011940fd013da3f7fb926e4a1cd2e618"
+					},
+					{
+						"id": "guild_booster_lvl9",
+						"description": "Server boosting since Jan 13, 2022",
+						"icon": "ec92202290b48d0879b7413d2dde3bab",
+						"link": "https://discord.com/settings/premium"
+					},
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					}
+				],
+				"date": 1768490509130
+			},
+			"1061679414552821820": {
+				"badges": [],
+				"date": 1768492265636
+			},
+			"1062663572116746311": {
+				"badges": [],
+				"date": 1766325810629
+			},
+			"1081419181238530129": {
+				"date": 1768516795568
+			},
+			"1084441256417034332": {
+				"badges": [
+					{
+						"id": "hypesquad_house_1",
+						"description": "HypeSquad Bravery",
+						"icon": "8a88d63823d8a71cd5e390baa45efa02"
+					},
+					{
+						"id": "legacy_username",
+						"description": "Originally known as LeeGod#6278",
+						"icon": "6de6d34650760ba5551a79732e98ed60"
+					},
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					},
+					{
+						"id": "orb_profile_badge",
+						"description": "Collected the Orb Profile Badge",
+						"icon": "83d8a1eb09a8d64e59233eec5d4d5c2d"
+					}
+				],
+				"date": 1768491456179
+			},
+			"1092502384397266975": {
+				"badges": [],
+				"date": 1768492256793
+			},
+			"1094272375538856026": {
+				"badges": [
+					{
+						"id": "hypesquad_house_2",
+						"description": "HypeSquad Brilliance",
+						"icon": "011940fd013da3f7fb926e4a1cd2e618"
+					},
+					{
+						"id": "legacy_username",
+						"description": "Originally known as qwertyasdev#6782",
+						"icon": "6de6d34650760ba5551a79732e98ed60"
+					},
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					}
+				],
+				"date": 1768492220311
+			},
+			"1106630597390114907": {
+				"badges": [
+					{
+						"id": "legacy_username",
+						"description": "Originally known as Scattypie#1412",
+						"icon": "6de6d34650760ba5551a79732e98ed60"
+					}
+				],
+				"date": 1768516798536
+			},
+			"1108002267501711400": {
+				"badges": [
+					{
+						"id": "legacy_username",
+						"description": "Originally known as Craniax169#9200",
+						"icon": "6de6d34650760ba5551a79732e98ed60"
+					},
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					}
+				],
+				"date": 1768492193479
+			},
+			"1111671798275252336": {
+				"badges": [],
+				"date": 1768491201172
+			},
+			"1113050223841914902": {
+				"badges": [
+					{
+						"id": "hypesquad_house_2",
+						"description": "HypeSquad Brilliance",
+						"icon": "011940fd013da3f7fb926e4a1cd2e618"
+					},
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					}
+				],
+				"date": 1768492247397
+			},
+			"1123954243083190293": {
+				"date": 1768553777112
+			},
+			"1124960491899473920": {
+				"badges": [
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					}
+				],
+				"date": 1768491182931
+			},
+			"1134506599445184533": {
+				"date": 1768516811359
+			},
+			"1136664839553552384": {
+				"badges": [],
+				"date": 1768769336680
+			},
+			"1145363441524166758": {
+				"badges": [
+					{
+						"id": "bot_commands",
+						"description": "Supports Commands",
+						"icon": "6f9e37f9029ff57aef81db857890005e",
+						"link": "https://discord.com/blog/welcome-to-the-new-era-of-discord-apps?ref=badge"
+					}
+				],
+				"date": 1766325825453
+			},
+			"1153352419065987112": {
+				"badges": [],
+				"date": 1768492218880
+			},
+			"1156430974008184962": {
+				"badges": [
+					{
+						"id": "premium_tenure_12_month_v2",
+						"description": "Earned Dec 16, 2024. 1 year: Platinum",
+						"icon": "0334688279c8359120922938dcb1d6f8",
+						"link": "https://discord.com/settings/premium"
+					},
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					}
+				],
+				"date": 1768490498653
+			},
+			"1158696604132442122": {
+				"date": 1768553775718
+			},
+			"1158720889886613545": {
+				"badges": [],
+				"date": 1767005184354
+			},
+			"1162004926977814561": {
+				"badges": [],
+				"date": 1768516807058
+			},
+			"116242787980017679": {
+				"badges": [
+					{
+						"id": "premium_tenure_36_month_v2",
+						"description": "Earned Feb 10, 2021. 3 years: Emerald",
+						"icon": "11e2d339068b55d3a506cff34d3780f3",
+						"link": "https://discord.com/settings/premium"
+					},
+					{
+						"id": "early_supporter",
+						"description": "Early Supporter",
+						"icon": "7060786766c9c840eb3019e725d2b358",
+						"link": "https://discord.com/settings/premium"
+					},
+					{
+						"id": "guild_booster_lvl9",
+						"description": "Server boosting since Feb 10, 2021",
+						"icon": "ec92202290b48d0879b7413d2dde3bab",
+						"link": "https://discord.com/settings/premium"
+					},
+					{
+						"id": "legacy_username",
+						"description": "Originally known as Pu#0727",
+						"icon": "6de6d34650760ba5551a79732e98ed60"
+					},
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					},
+					{
+						"id": "orb_profile_badge",
+						"description": "Collected the Orb Profile Badge",
+						"icon": "83d8a1eb09a8d64e59233eec5d4d5c2d"
+					}
+				],
+				"date": 1768490480187
+			},
+			"1162507739499601982": {
+				"badges": [
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					}
+				],
+				"date": 1768491487826
+			},
+			"1162969883915603988": {
+				"date": 1768516806483
+			},
+			"1186603694087737389": {
+				"badges": [],
+				"date": 1768516800095
+			},
+			"1194586683455324191": {
+				"badges": [],
+				"date": 1768491271709
+			},
+			"1198303130971029547": {
+				"badges": [],
+				"date": 1768769696607
+			},
+			"1203337927766315028": {
+				"badges": [
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					},
+					{
+						"id": "orb_profile_badge",
+						"description": "Collected the Orb Profile Badge",
+						"icon": "83d8a1eb09a8d64e59233eec5d4d5c2d"
+					}
+				],
+				"date": 1768769338177
+			},
+			"1209795140512907324": {
+				"badges": [],
+				"date": 1768858046583
+			},
+			"1216660705240023131": {
+				"badges": [],
+				"date": 1768841762632
+			},
+			"1217473025776156744": {
+				"badges": [],
+				"date": 1768492264159
+			},
+			"1219524182908342292": {
+				"badges": [],
+				"date": 1768492248842
+			},
+			"1221116925107769455": {
+				"badges": [],
+				"date": 1768491198149
+			},
+			"1230431416794480668": {
+				"date": 1768492262406
+			},
+			"1242035376319889408": {
+				"badges": [
+					{
+						"id": "hypesquad_house_2",
+						"description": "HypeSquad Brilliance",
+						"icon": "011940fd013da3f7fb926e4a1cd2e618"
+					},
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					},
+					{
+						"id": "orb_profile_badge",
+						"description": "Collected the Orb Profile Badge",
+						"icon": "83d8a1eb09a8d64e59233eec5d4d5c2d"
+					}
+				],
+				"date": 1768554023049
+			},
+			"124276233478471680": {
+				"badges": [
+					{
+						"id": "premium_tenure_12_month_v2",
+						"description": "Earned Sep 5, 2024. 1 year: Platinum",
+						"icon": "0334688279c8359120922938dcb1d6f8",
+						"link": "https://discord.com/settings/premium"
+					},
+					{
+						"id": "hypesquad_house_1",
+						"description": "HypeSquad Bravery",
+						"icon": "8a88d63823d8a71cd5e390baa45efa02"
+					},
+					{
+						"id": "guild_booster_lvl3",
+						"description": "Server boosting since Sep 16, 2025",
+						"icon": "72bed924410c304dbe3d00a6e593ff59",
+						"link": "https://discord.com/settings/premium"
+					},
+					{
+						"id": "legacy_username",
+						"description": "Originally known as CapnKitten#3192",
+						"icon": "6de6d34650760ba5551a79732e98ed60"
+					},
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					},
+					{
+						"id": "orb_profile_badge",
+						"description": "Collected the Orb Profile Badge",
+						"icon": "83d8a1eb09a8d64e59233eec5d4d5c2d"
+					}
+				],
+				"date": 1768491447260
+			},
+			"1245195534222884986": {
+				"badges": [],
+				"date": 1768492249832
+			},
+			"1245796391125520409": {
+				"badges": [],
+				"date": 1766325805987
+			},
+			"1245982956623892482": {
+				"date": 1768492221878
+			},
+			"1246038422540517394": {
+				"badges": [],
+				"date": 1768492255257
+			},
+			"1247866565723160596": {
+				"badges": [
+					{
+						"id": "bot_commands",
+						"description": "Supports Commands",
+						"icon": "6f9e37f9029ff57aef81db857890005e",
+						"link": "https://discord.com/blog/welcome-to-the-new-era-of-discord-apps?ref=badge"
+					}
+				],
+				"date": 1768492229060
+			},
+			"1249679320776052858": {
+				"badges": [],
+				"date": 1768492250497
+			},
+			"1251333565652664412": {
+				"badges": [
+					{
+						"id": "premium_tenure_6_month_v2",
+						"description": "Earned Apr 5, 2025. 6 months: Gold",
+						"icon": "2895086c18d5531d499862e41d1155a6",
+						"link": "https://discord.com/settings/premium"
+					},
+					{
+						"id": "guild_booster_lvl3",
+						"description": "Server boosting since Aug 23, 2025",
+						"icon": "72bed924410c304dbe3d00a6e593ff59",
+						"link": "https://discord.com/settings/premium"
+					},
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					}
+				],
+				"date": 1768553941134
+			},
+			"1252696629044051989": {
+				"badges": [
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					}
+				],
+				"date": 1768491196698
+			},
+			"1253702905291210914": {
+				"badges": [],
+				"date": 1768492230212
+			},
+			"1257356506899419207": {
+				"badges": [],
+				"date": 1768492240609
+			},
+			"1284745173347209309": {
+				"badges": [
+					{
+						"id": "bot_commands",
+						"description": "Supports Commands",
+						"icon": "6f9e37f9029ff57aef81db857890005e",
+						"link": "https://discord.com/blog/welcome-to-the-new-era-of-discord-apps?ref=badge"
+					}
+				],
+				"date": 1766325827000
+			},
+			"1290364775972343884": {
+				"date": 1768492236192
+			},
+			"1295314370628288573": {
+				"badges": [
+					{
+						"id": "bot_commands",
+						"description": "Supports Commands",
+						"icon": "6f9e37f9029ff57aef81db857890005e",
+						"link": "https://discord.com/blog/welcome-to-the-new-era-of-discord-apps?ref=badge"
+					}
+				],
+				"date": 1768858008737
+			},
+			"1315883196151238657": {
+				"badges": [],
+				"date": 1767004979672
+			},
+			"1325799515592069150": {
+				"badges": [
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					}
+				],
+				"date": 1768491276636
+			},
+			"1327548732044218412": {
+				"badges": [],
+				"date": 1768819079665
+			},
+			"1329111750452449372": {
+				"date": 1768492228413
+			},
+			"1337759192114790451": {
+				"date": 1768236684341
+			},
+			"1338512023419617322": {
+				"badges": [
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					},
+					{
+						"id": "orb_profile_badge",
+						"description": "Collected the Orb Profile Badge",
+						"icon": "83d8a1eb09a8d64e59233eec5d4d5c2d"
+					}
+				],
+				"date": 1768769337211
+			},
+			"133871447830560768": {
+				"badges": [
+					{
+						"id": "premium_tenure_1_month_v2",
+						"description": "Earned Nov 24, 2025. 1 month: Bronze",
+						"icon": "4f33c4a9c64ce221936bd256c356f91f",
+						"link": "https://discord.com/settings/premium"
+					},
+					{
+						"id": "hypesquad_house_1",
+						"description": "HypeSquad Bravery",
+						"icon": "8a88d63823d8a71cd5e390baa45efa02"
+					},
+					{
+						"id": "guild_booster_lvl1",
+						"description": "Server boosting since Nov 24, 2025",
+						"icon": "51040c70d4f20a921ad6674ff86fc95c",
+						"link": "https://discord.com/settings/premium"
+					},
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					}
+				],
+				"date": 1768553939590
+			},
+			"1341374405170827276": {
+				"badges": [],
+				"date": 1768858011719
+			},
+			"1342409869881249824": {
+				"badges": [
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					}
+				],
+				"date": 1766329511125
+			},
+			"1345044103020285954": {
+				"badges": [
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					},
+					{
+						"id": "orb_profile_badge",
+						"description": "Collected the Orb Profile Badge",
+						"icon": "83d8a1eb09a8d64e59233eec5d4d5c2d"
+					}
+				],
+				"date": 1768491483151
+			},
+			"1351214426312675383": {
+				"badges": [],
+				"date": 1768491266069
+			},
+			"1353360620090560554": {
+				"badges": [],
+				"date": 1766329514531
+			},
+			"1353578162487037952": {
+				"badges": [
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					},
+					{
+						"id": "orb_profile_badge",
+						"description": "Collected the Orb Profile Badge",
+						"icon": "83d8a1eb09a8d64e59233eec5d4d5c2d"
+					}
+				],
+				"date": 1766329508506
+			},
+			"1360495318327758898": {
+				"badges": [],
+				"date": 1768491202628
+			},
+			"1362613587117342893": {
+				"badges": [
+					{
+						"id": "premium",
+						"description": "Subscriber since Jan 1, 2026",
+						"icon": "2ba85e8026a8614b640c2837bcdfe21b",
+						"link": "https://discord.com/settings/premium"
+					},
+					{
+						"id": "guild_booster_lvl1",
+						"description": "Server boosting since Jan 6, 2026",
+						"icon": "51040c70d4f20a921ad6674ff86fc95c",
+						"link": "https://discord.com/settings/premium"
+					},
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					},
+					{
+						"id": "orb_profile_badge",
+						"description": "Collected the Orb Profile Badge",
+						"icon": "83d8a1eb09a8d64e59233eec5d4d5c2d"
+					}
+				],
+				"date": 1768491493986
+			},
+			"136686243210723328": {
+				"badges": [
+					{
+						"id": "premium_tenure_72_month_v2",
+						"description": "Earned Dec 29, 2017. 6+ years: Opal",
+						"icon": "5b154df19c53dce2af92c9b61e6be5e2",
+						"link": "https://discord.com/settings/premium"
+					},
+					{
+						"id": "hypesquad_house_3",
+						"description": "HypeSquad Balance",
+						"icon": "3aa41de486fa12454c3761e8e223442e"
+					},
+					{
+						"id": "early_supporter",
+						"description": "Early Supporter",
+						"icon": "7060786766c9c840eb3019e725d2b358",
+						"link": "https://discord.com/settings/premium"
+					},
+					{
+						"id": "guild_booster_lvl9",
+						"description": "Server boosting since Jun 4, 2019",
+						"icon": "ec92202290b48d0879b7413d2dde3bab",
+						"link": "https://discord.com/settings/premium"
+					},
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					},
+					{
+						"id": "orb_profile_badge",
+						"description": "Collected the Orb Profile Badge",
+						"icon": "83d8a1eb09a8d64e59233eec5d4d5c2d"
+					}
+				],
+				"date": 1768491450929
+			},
+			"1367096181607628892": {
+				"badges": [],
+				"date": 1768491199592
+			},
+			"1375745252408688720": {
+				"badges": [],
+				"date": 1768492185561
+			},
+			"1379812928202604615": {
+				"badges": [],
+				"date": 1768492189844
+			},
+			"1403415123204243467": {
+				"badges": [
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					}
+				],
+				"date": 1768491274999
+			},
+			"1415408495930507276": {
+				"badges": [],
+				"date": 1768490433082
+			},
+			"141580799177654272": {
+				"badges": [
+					{
+						"id": "legacy_username",
+						"description": "Originally known as Adiker#6025",
+						"icon": "6de6d34650760ba5551a79732e98ed60"
+					}
+				],
+				"date": 1768553942723
+			},
+			"1422554389717061652": {
+				"badges": [
+					{
+						"id": "hypesquad_house_2",
+						"description": "HypeSquad Brilliance",
+						"icon": "011940fd013da3f7fb926e4a1cd2e618"
+					},
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					}
+				],
+				"date": 1766329520781
+			},
+			"1430551089140334812": {
+				"badges": [
+					{
+						"id": "hypesquad_house_3",
+						"description": "HypeSquad Balance",
+						"icon": "3aa41de486fa12454c3761e8e223442e"
+					}
+				],
+				"date": 1768492183900
+			},
+			"1443318158290321438": {
+				"badges": [
+					{
+						"id": "hypesquad_house_1",
+						"description": "HypeSquad Bravery",
+						"icon": "8a88d63823d8a71cd5e390baa45efa02"
+					},
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					},
+					{
+						"id": "orb_profile_badge",
+						"description": "Collected the Orb Profile Badge",
+						"icon": "83d8a1eb09a8d64e59233eec5d4d5c2d"
+					}
+				],
+				"date": 1766329532701
+			},
+			"1444760016866513068": {
+				"badges": [
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					}
+				],
+				"date": 1766325839644
+			},
+			"1448752245482066100": {
+				"badges": [],
+				"date": 1768858014466
+			},
+			"1451337819053363274": {
+				"badges": [],
+				"date": 1766823701576
+			},
+			"155149108183695360": {
+				"badges": [
+					{
+						"id": "bot_commands",
+						"description": "Supports Commands",
+						"icon": "6f9e37f9029ff57aef81db857890005e",
+						"link": "https://discord.com/blog/welcome-to-the-new-era-of-discord-apps?ref=badge"
+					}
+				],
+				"date": 1768490485075
+			},
+			"158468680919810048": {
+				"badges": [
+					{
+						"id": "hypesquad_house_3",
+						"description": "HypeSquad Balance",
+						"icon": "3aa41de486fa12454c3761e8e223442e"
+					},
+					{
+						"id": "legacy_username",
+						"description": "Originally known as RangerFade#6664",
+						"icon": "6de6d34650760ba5551a79732e98ed60"
+					},
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					}
+				],
+				"date": 1768491489324
+			},
+			"159985870458322944": {
+				"badges": [
+					{
+						"id": "bot_commands",
+						"description": "Supports Commands",
+						"icon": "6f9e37f9029ff57aef81db857890005e",
+						"link": "https://discord.com/blog/welcome-to-the-new-era-of-discord-apps?ref=badge"
+					}
+				],
+				"date": 1766325796264
+			},
+			"170294492761554945": {
+				"badges": [
+					{
+						"id": "premium_tenure_1_month_v2",
+						"description": "Earned Oct 20, 2025. 1 month: Bronze",
+						"icon": "4f33c4a9c64ce221936bd256c356f91f",
+						"link": "https://discord.com/settings/premium"
+					},
+					{
+						"id": "hypesquad_house_2",
+						"description": "HypeSquad Brilliance",
+						"icon": "011940fd013da3f7fb926e4a1cd2e618"
+					},
+					{
+						"id": "guild_booster_lvl2",
+						"description": "Server boosting since Oct 23, 2025",
+						"icon": "0e4080d1d333bc7ad29ef6528b6f2fb7",
+						"link": "https://discord.com/settings/premium"
+					},
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					},
+					{
+						"id": "orb_profile_badge",
+						"description": "Collected the Orb Profile Badge",
+						"icon": "83d8a1eb09a8d64e59233eec5d4d5c2d"
+					}
+				],
+				"date": 1768491472175
+			},
+			"173047540491485185": {
+				"badges": [
+					{
+						"id": "legacy_username",
+						"description": "Originally known as nothing here#6548",
+						"icon": "6de6d34650760ba5551a79732e98ed60"
+					},
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					}
+				],
+				"date": 1768491492644
+			},
+			"174868361040232448": {
+				"badges": [
+					{
+						"id": "premium",
+						"description": "Subscriber since Jan 24, 2019",
+						"icon": "2ba85e8026a8614b640c2837bcdfe21b",
+						"link": "https://discord.com/settings/premium"
+					},
+					{
+						"id": "hypesquad_house_2",
+						"description": "HypeSquad Brilliance",
+						"icon": "011940fd013da3f7fb926e4a1cd2e618"
+					},
+					{
+						"id": "legacy_username",
+						"description": "Originally known as Gibbu#0001",
+						"icon": "6de6d34650760ba5551a79732e98ed60"
+					}
+				],
+				"date": 1768553932957
+			},
+			"204255221017214977": {
+				"badges": [
+					{
+						"id": "bot_commands",
+						"description": "Supports Commands",
+						"icon": "6f9e37f9029ff57aef81db857890005e",
+						"link": "https://discord.com/blog/welcome-to-the-new-era-of-discord-apps?ref=badge"
+					}
+				],
+				"date": 1768491449225
+			},
+			"224538553944637440": {
+				"badges": [
+					{
+						"id": "hypesquad_house_3",
+						"description": "HypeSquad Balance",
+						"icon": "3aa41de486fa12454c3761e8e223442e"
+					},
+					{
+						"id": "legacy_username",
+						"description": "Originally known as arg0NNY#6366",
+						"icon": "6de6d34650760ba5551a79732e98ed60"
+					}
+				],
+				"date": 1768490489898
+			},
+			"226677096091484160": {
+				"badges": [
+					{
+						"id": "hypesquad_house_3",
+						"description": "HypeSquad Balance",
+						"icon": "3aa41de486fa12454c3761e8e223442e"
+					}
+				],
+				"date": 1768490481622
+			},
+			"231675734693773325": {
+				"badges": [
+					{
+						"id": "hypesquad_house_2",
+						"description": "HypeSquad Brilliance",
+						"icon": "011940fd013da3f7fb926e4a1cd2e618"
+					},
+					{
+						"id": "legacy_username",
+						"description": "Originally known as Break#1234",
+						"icon": "6de6d34650760ba5551a79732e98ed60"
+					},
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					},
+					{
+						"id": "orb_profile_badge",
+						"description": "Collected the Orb Profile Badge",
+						"icon": "83d8a1eb09a8d64e59233eec5d4d5c2d"
+					}
+				],
+				"date": 1768490493057
+			},
+			"235088799074484224": {
+				"badges": [
+					{
+						"id": "bot_commands",
+						"description": "Supports Commands",
+						"icon": "6f9e37f9029ff57aef81db857890005e",
+						"link": "https://discord.com/blog/welcome-to-the-new-era-of-discord-apps?ref=badge"
+					}
+				],
+				"date": 1766325801523
+			},
+			"235148962103951360": {
+				"badges": [
+					{
+						"id": "bot_commands",
+						"description": "Supports Commands",
+						"icon": "6f9e37f9029ff57aef81db857890005e",
+						"link": "https://discord.com/blog/welcome-to-the-new-era-of-discord-apps?ref=badge"
+					}
+				],
+				"date": 1768491281349
+			},
+			"241334335884492810": {
+				"badges": [
+					{
+						"id": "premium_tenure_60_month_v2",
+						"description": "Earned Apr 2, 2020. 5 years: Ruby",
+						"icon": "cd5e2cfd9d7f27a8cdcd3e8a8d5dc9f4",
+						"link": "https://discord.com/settings/premium"
+					},
+					{
+						"id": "hypesquad_house_1",
+						"description": "HypeSquad Bravery",
+						"icon": "8a88d63823d8a71cd5e390baa45efa02"
+					},
+					{
+						"id": "guild_booster_lvl9",
+						"description": "Server boosting since Dec 23, 2020",
+						"icon": "ec92202290b48d0879b7413d2dde3bab",
+						"link": "https://discord.com/settings/premium"
+					},
+					{
+						"id": "legacy_username",
+						"description": "Originally known as DaddyBoard#0001",
+						"icon": "6de6d34650760ba5551a79732e98ed60"
+					},
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					}
+				],
+				"date": 1768490494517
+			},
+			"262055523896131584": {
+				"badges": [],
+				"date": 1768490507499
+			},
+			"263893172877262849": {
+				"badges": [
+					{
+						"id": "premium",
+						"description": "Subscriber since Dec 20, 2025",
+						"icon": "2ba85e8026a8614b640c2837bcdfe21b",
+						"link": "https://discord.com/settings/premium"
+					},
+					{
+						"id": "hypesquad_house_2",
+						"description": "HypeSquad Brilliance",
+						"icon": "011940fd013da3f7fb926e4a1cd2e618"
+					},
+					{
+						"id": "legacy_username",
+						"description": "Originally known as izz#5857",
+						"icon": "6de6d34650760ba5551a79732e98ed60"
+					},
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					},
+					{
+						"id": "orb_profile_badge",
+						"description": "Collected the Orb Profile Badge",
+						"icon": "83d8a1eb09a8d64e59233eec5d4d5c2d"
+					}
+				],
+				"date": 1768553934659
+			},
+			"268942422879240192": {
+				"badges": [
+					{
+						"id": "premium_tenure_12_month_v2",
+						"description": "Earned Sep 19, 2024. 1 year: Platinum",
+						"icon": "0334688279c8359120922938dcb1d6f8",
+						"link": "https://discord.com/settings/premium"
+					},
+					{
+						"id": "hypesquad_house_1",
+						"description": "HypeSquad Bravery",
+						"icon": "8a88d63823d8a71cd5e390baa45efa02"
+					},
+					{
+						"id": "guild_booster_lvl3",
+						"description": "Server boosting since Sep 8, 2025",
+						"icon": "72bed924410c304dbe3d00a6e593ff59",
+						"link": "https://discord.com/settings/premium"
+					},
+					{
+						"id": "legacy_username",
+						"description": "Originally known as snow.#7793",
+						"icon": "6de6d34650760ba5551a79732e98ed60"
+					},
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					}
+				],
+				"date": 1768554492563
+			},
+			"270904126974590976": {
+				"badges": [
+					{
+						"id": "bot_commands",
+						"description": "Supports Commands",
+						"icon": "6f9e37f9029ff57aef81db857890005e",
+						"link": "https://discord.com/blog/welcome-to-the-new-era-of-discord-apps?ref=badge"
+					}
+				],
+				"date": 1768491187870
+			},
+			"282110343549812736": {
+				"badges": [
+					{
+						"id": "premium_tenure_3_month_v2",
+						"description": "Earned Sep 22, 2025. 3 months: Silver",
+						"icon": "4514fab914bdbfb4ad2fa23df76121a6",
+						"link": "https://discord.com/settings/premium"
+					},
+					{
+						"id": "guild_booster_lvl1",
+						"description": "Server boosting since Jan 11, 2026",
+						"icon": "51040c70d4f20a921ad6674ff86fc95c",
+						"link": "https://discord.com/settings/premium"
+					},
+					{
+						"id": "legacy_username",
+						"description": "Originally known as jasper#2222",
+						"icon": "6de6d34650760ba5551a79732e98ed60"
+					}
+				],
+				"date": 1768490510715
+			},
+			"282859044593598464": {
+				"badges": [
+					{
+						"id": "bot_commands",
+						"description": "Supports Commands",
+						"icon": "6f9e37f9029ff57aef81db857890005e",
+						"link": "https://discord.com/blog/welcome-to-the-new-era-of-discord-apps?ref=badge"
+					},
+					{
+						"id": "automod",
+						"description": "Uses AutoMod",
+						"icon": "f2459b691ac7453ed6039bbcfaccbfcd"
+					}
+				],
+				"date": 1766325799344
+			},
+			"299464745713532928": {
+				"badges": [
+					{
+						"id": "premium_tenure_36_month_v2",
+						"description": "Earned May 31, 2021. 3 years: Emerald",
+						"icon": "11e2d339068b55d3a506cff34d3780f3",
+						"link": "https://discord.com/settings/premium"
+					},
+					{
+						"id": "hypesquad_house_2",
+						"description": "HypeSquad Brilliance",
+						"icon": "011940fd013da3f7fb926e4a1cd2e618"
+					},
+					{
+						"id": "guild_booster_lvl9",
+						"description": "Server boosting since Jan 14, 2022",
+						"icon": "ec92202290b48d0879b7413d2dde3bab",
+						"link": "https://discord.com/settings/premium"
+					},
+					{
+						"id": "legacy_username",
+						"description": "Originally known as ψ⛧E͎v͎e͎⛧ψ#8663",
+						"icon": "6de6d34650760ba5551a79732e98ed60"
+					},
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					},
+					{
+						"id": "orb_profile_badge",
+						"description": "Collected the Orb Profile Badge",
+						"icon": "83d8a1eb09a8d64e59233eec5d4d5c2d"
+					}
+				],
+				"date": 1768491454155
+			},
+			"300294176501923841": {
+				"badges": [
+					{
+						"id": "hypesquad_house_2",
+						"description": "HypeSquad Brilliance",
+						"icon": "011940fd013da3f7fb926e4a1cd2e618"
+					},
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					}
+				],
+				"date": 1768490513801
+			},
+			"310450863845933057": {
+				"badges": [
+					{
+						"id": "hypesquad_house_2",
+						"description": "HypeSquad Brilliance",
+						"icon": "011940fd013da3f7fb926e4a1cd2e618"
+					},
+					{
+						"id": "legacy_username",
+						"description": "Originally known as Dastan#8746",
+						"icon": "6de6d34650760ba5551a79732e98ed60"
+					},
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					}
+				],
+				"date": 1768490497011
+			},
+			"310741793668857859": {
+				"badges": [
+					{
+						"id": "premium_tenure_24_month_v2",
+						"description": "Earned Apr 17, 2023. 2 years: Diamond",
+						"icon": "0d61871f72bb9a33a7ae568c1fb4f20a",
+						"link": "https://discord.com/settings/premium"
+					},
+					{
+						"id": "guild_booster_lvl9",
+						"description": "Server boosting since Apr 17, 2023",
+						"icon": "ec92202290b48d0879b7413d2dde3bab",
+						"link": "https://discord.com/settings/premium"
+					},
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					},
+					{
+						"id": "orb_profile_badge",
+						"description": "Collected the Orb Profile Badge",
+						"icon": "83d8a1eb09a8d64e59233eec5d4d5c2d"
+					}
+				],
+				"date": 1768490505335
+			},
+			"325250926795554816": {
+				"badges": [
+					{
+						"id": "premium_tenure_36_month_v2",
+						"description": "Earned Apr 6, 2021. 3 years: Emerald",
+						"icon": "11e2d339068b55d3a506cff34d3780f3",
+						"link": "https://discord.com/settings/premium"
+					},
+					{
+						"id": "guild_booster_lvl9",
+						"description": "Server boosting since Apr 6, 2021",
+						"icon": "ec92202290b48d0879b7413d2dde3bab",
+						"link": "https://discord.com/settings/premium"
+					},
+					{
+						"id": "legacy_username",
+						"description": "Originally known as jh0ker#0001",
+						"icon": "6de6d34650760ba5551a79732e98ed60"
+					}
+				],
+				"date": 1768490512298
+			},
+			"327639826075484162": {
+				"badges": [
+					{
+						"id": "hypesquad_house_3",
+						"description": "HypeSquad Balance",
+						"icon": "3aa41de486fa12454c3761e8e223442e"
+					},
+					{
+						"id": "legacy_username",
+						"description": "Originally known as uhc#0001",
+						"icon": "6de6d34650760ba5551a79732e98ed60"
+					},
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					}
+				],
+				"date": 1768490488241
+			},
+			"330416853971107840": {
+				"badges": [
+					{
+						"id": "bot_commands",
+						"description": "Supports Commands",
+						"icon": "6f9e37f9029ff57aef81db857890005e",
+						"link": "https://discord.com/blog/welcome-to-the-new-era-of-discord-apps?ref=badge"
+					}
+				],
+				"date": 1768492191767
+			},
+			"332116671294734336": {
+				"badges": [
+					{
+						"id": "premium_tenure_36_month_v2",
+						"description": "Earned May 2, 2021. 3 years: Emerald",
+						"icon": "11e2d339068b55d3a506cff34d3780f3",
+						"link": "https://discord.com/settings/premium"
+					},
+					{
+						"id": "hypesquad_house_3",
+						"description": "HypeSquad Balance",
+						"icon": "3aa41de486fa12454c3761e8e223442e"
+					},
+					{
+						"id": "early_supporter",
+						"description": "Early Supporter",
+						"icon": "7060786766c9c840eb3019e725d2b358",
+						"link": "https://discord.com/settings/premium"
+					},
+					{
+						"id": "guild_booster_lvl9",
+						"description": "Server boosting since Aug 7, 2022",
+						"icon": "ec92202290b48d0879b7413d2dde3bab",
+						"link": "https://discord.com/settings/premium"
+					},
+					{
+						"id": "legacy_username",
+						"description": "Originally known as Newest#6670",
+						"icon": "6de6d34650760ba5551a79732e98ed60"
+					},
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					},
+					{
+						"id": "orb_profile_badge",
+						"description": "Collected the Orb Profile Badge",
+						"icon": "83d8a1eb09a8d64e59233eec5d4d5c2d"
+					}
+				],
+				"date": 1768490486609
+			},
+			"354191516979429376": {
+				"badges": [
+					{
+						"id": "premium",
+						"description": "Subscriber since Oct 7, 2020",
+						"icon": "2ba85e8026a8614b640c2837bcdfe21b",
+						"link": "https://discord.com/settings/premium"
+					},
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					}
+				],
+				"date": 1768490845459
+			},
+			"356268235697553409": {
+				"badges": [
+					{
+						"id": "bot_commands",
+						"description": "Supports Commands",
+						"icon": "6f9e37f9029ff57aef81db857890005e",
+						"link": "https://discord.com/blog/welcome-to-the-new-era-of-discord-apps?ref=badge"
+					}
+				],
+				"date": 1766325823864
+			},
+			"384087218957844482": {
+				"badges": [
+					{
+						"id": "premium_tenure_12_month_v2",
+						"description": "Earned Oct 5, 2024. 1 year: Platinum",
+						"icon": "0334688279c8359120922938dcb1d6f8",
+						"link": "https://discord.com/settings/premium"
+					},
+					{
+						"id": "guild_booster_lvl6",
+						"description": "Server boosting since Oct 21, 2024",
+						"icon": "991c9f39ee33d7537d9f408c3e53141e",
+						"link": "https://discord.com/settings/premium"
+					},
+					{
+						"id": "legacy_username",
+						"description": "Originally known as Martian#8833",
+						"icon": "6de6d34650760ba5551a79732e98ed60"
+					}
+				],
+				"date": 1768490491322
+			},
+			"385895514324992011": {
+				"badges": [
+					{
+						"id": "premium",
+						"description": "Subscriber since Oct 16, 2023",
+						"icon": "2ba85e8026a8614b640c2837bcdfe21b",
+						"link": "https://discord.com/settings/premium"
+					},
+					{
+						"id": "hypesquad_house_1",
+						"description": "HypeSquad Bravery",
+						"icon": "8a88d63823d8a71cd5e390baa45efa02"
+					},
+					{
+						"id": "legacy_username",
+						"description": "Originally known as MahdeenSky#0850",
+						"icon": "6de6d34650760ba5551a79732e98ed60"
+					},
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					},
+					{
+						"id": "orb_profile_badge",
+						"description": "Collected the Orb Profile Badge",
+						"icon": "83d8a1eb09a8d64e59233eec5d4d5c2d"
+					}
+				],
+				"date": 1768490547838
+			},
+			"396908966103220224": {
+				"badges": [
+					{
+						"id": "premium_tenure_36_month_v2",
+						"description": "Earned Jan 27, 2022. 3 years: Emerald",
+						"icon": "11e2d339068b55d3a506cff34d3780f3",
+						"link": "https://discord.com/settings/premium"
+					},
+					{
+						"id": "hypesquad_house_3",
+						"description": "HypeSquad Balance",
+						"icon": "3aa41de486fa12454c3761e8e223442e"
+					},
+					{
+						"id": "guild_booster_lvl4",
+						"description": "Server boosting since Apr 24, 2025",
+						"icon": "df199d2050d3ed4ebf84d64ae83989f8",
+						"link": "https://discord.com/settings/premium"
+					},
+					{
+						"id": "legacy_username",
+						"description": "Originally known as ! 𝒥𝕒𝒸𝓀#0001",
+						"icon": "6de6d34650760ba5551a79732e98ed60"
+					},
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					}
+				],
+				"date": 1768491486403
+			},
+			"408785106942164992": {
+				"badges": [
+					{
+						"id": "bot_commands",
+						"description": "Supports Commands",
+						"icon": "6f9e37f9029ff57aef81db857890005e",
+						"link": "https://discord.com/blog/welcome-to-the-new-era-of-discord-apps?ref=badge"
+					}
+				],
+				"date": 1768491193144
+			},
+			"411493308041527298": {
+				"badges": [
+					{
+						"id": "premium",
+						"description": "Subscriber since Dec 2, 2025",
+						"icon": "2ba85e8026a8614b640c2837bcdfe21b",
+						"link": "https://discord.com/settings/premium"
+					},
+					{
+						"id": "hypesquad_house_1",
+						"description": "HypeSquad Bravery",
+						"icon": "8a88d63823d8a71cd5e390baa45efa02"
+					},
+					{
+						"id": "legacy_username",
+						"description": "Originally known as aarnav#6531",
+						"icon": "6de6d34650760ba5551a79732e98ed60"
+					},
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					},
+					{
+						"id": "orb_profile_badge",
+						"description": "Collected the Orb Profile Badge",
+						"icon": "83d8a1eb09a8d64e59233eec5d4d5c2d"
+					}
+				],
+				"date": 1766325828606
+			},
+			"411916947773587456": {
+				"badges": [],
+				"date": 1768491189889
+			},
+			"416562022403276804": {
+				"badges": [
+					{
+						"id": "premium",
+						"description": "Subscriber since Dec 29, 2025",
+						"icon": "2ba85e8026a8614b640c2837bcdfe21b",
+						"link": "https://discord.com/settings/premium"
+					},
+					{
+						"id": "hypesquad_house_3",
+						"description": "HypeSquad Balance",
+						"icon": "3aa41de486fa12454c3761e8e223442e"
+					},
+					{
+						"id": "guild_booster_lvl1",
+						"description": "Server boosting since Dec 29, 2025",
+						"icon": "51040c70d4f20a921ad6674ff86fc95c",
+						"link": "https://discord.com/settings/premium"
+					},
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					}
+				],
+				"date": 1768553937878
+			},
+			"433145489458987018": {
+				"badges": [
+					{
+						"id": "hypesquad_house_1",
+						"description": "HypeSquad Bravery",
+						"icon": "8a88d63823d8a71cd5e390baa45efa02"
+					},
+					{
+						"id": "legacy_username",
+						"description": "Originally known as Aneeket#9711",
+						"icon": "6de6d34650760ba5551a79732e98ed60"
+					},
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					}
+				],
+				"date": 1766325838151
+			},
+			"434916213064466444": {
+				"badges": [
+					{
+						"id": "hypesquad_house_2",
+						"description": "HypeSquad Brilliance",
+						"icon": "011940fd013da3f7fb926e4a1cd2e618"
+					},
+					{
+						"id": "legacy_username",
+						"description": "Originally known as Deadshot#8858",
+						"icon": "6de6d34650760ba5551a79732e98ed60"
+					},
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					},
+					{
+						"id": "orb_profile_badge",
+						"description": "Collected the Orb Profile Badge",
+						"icon": "83d8a1eb09a8d64e59233eec5d4d5c2d"
+					}
+				],
+				"date": 1766325815748
+			},
+			"456226577798135808": {
+				"date": 1767449986925
+			},
+			"458276816071950337": {
+				"badges": [
+					{
+						"id": "bot_commands",
+						"description": "Supports Commands",
+						"icon": "6f9e37f9029ff57aef81db857890005e",
+						"link": "https://discord.com/blog/welcome-to-the-new-era-of-discord-apps?ref=badge"
+					}
+				],
+				"date": 1766325803066
+			},
+			"459937621481750528": {
+				"badges": [
+					{
+						"id": "hypesquad_house_3",
+						"description": "HypeSquad Balance",
+						"icon": "3aa41de486fa12454c3761e8e223442e"
+					},
+					{
+						"id": "legacy_username",
+						"description": "Originally known as SmolAlli#2706",
+						"icon": "6de6d34650760ba5551a79732e98ed60"
+					},
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					}
+				],
+				"date": 1768553936379
+			},
+			"470228321876049945": {
+				"badges": [
+					{
+						"id": "hypesquad_house_3",
+						"description": "HypeSquad Balance",
+						"icon": "3aa41de486fa12454c3761e8e223442e"
+					},
+					{
+						"id": "legacy_username",
+						"description": "Originally known as JustThinking777#1400",
+						"icon": "6de6d34650760ba5551a79732e98ed60"
+					},
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					}
+				],
+				"date": 1768769338640
+			},
+			"475225954449358858": {
+				"badges": [
+					{
+						"id": "legacy_username",
+						"description": "Originally known as INSANEJAGUAR#5606",
+						"icon": "6de6d34650760ba5551a79732e98ed60"
+					},
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					},
+					{
+						"id": "orb_profile_badge",
+						"description": "Collected the Orb Profile Badge",
+						"icon": "83d8a1eb09a8d64e59233eec5d4d5c2d"
+					}
+				],
+				"date": 1768492201743
+			},
+			"478582759565295616": {
+				"badges": [
+					{
+						"id": "hypesquad_house_2",
+						"description": "HypeSquad Brilliance",
+						"icon": "011940fd013da3f7fb926e4a1cd2e618"
+					},
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					}
+				],
+				"date": 1768491493272
+			},
+			"479723233873231882": {
+				"badges": [
+					{
+						"id": "hypesquad_house_3",
+						"description": "HypeSquad Balance",
+						"icon": "3aa41de486fa12454c3761e8e223442e"
+					},
+					{
+						"id": "legacy_username",
+						"description": "Originally known as !Bau#0845",
+						"icon": "6de6d34650760ba5551a79732e98ed60"
+					},
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					},
+					{
+						"id": "orb_profile_badge",
+						"description": "Collected the Orb Profile Badge",
+						"icon": "83d8a1eb09a8d64e59233eec5d4d5c2d"
+					}
+				],
+				"date": 1768491473713
+			},
+			"483377420494176258": {
+				"badges": [
+					{
+						"id": "bot_commands",
+						"description": "Supports Commands",
+						"icon": "6f9e37f9029ff57aef81db857890005e",
+						"link": "https://discord.com/blog/welcome-to-the-new-era-of-discord-apps?ref=badge"
+					}
+				],
+				"date": 1768492243873
+			},
+			"488692154164576256": {
+				"badges": [
+					{
+						"id": "premium_tenure_12_month_v2",
+						"description": "Earned Nov 18, 2024. 1 year: Platinum",
+						"icon": "0334688279c8359120922938dcb1d6f8",
+						"link": "https://discord.com/settings/premium"
+					},
+					{
+						"id": "hypesquad_house_2",
+						"description": "HypeSquad Brilliance",
+						"icon": "011940fd013da3f7fb926e4a1cd2e618"
+					},
+					{
+						"id": "guild_booster_lvl5",
+						"description": "Server boosting since Jan 19, 2025",
+						"icon": "996b3e870e8a22ce519b3a50e6bdd52f",
+						"link": "https://discord.com/settings/premium"
+					},
+					{
+						"id": "legacy_username",
+						"description": "Originally known as MGIsHere.#0304",
+						"icon": "6de6d34650760ba5551a79732e98ed60"
+					},
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					},
+					{
+						"id": "orb_profile_badge",
+						"description": "Collected the Orb Profile Badge",
+						"icon": "83d8a1eb09a8d64e59233eec5d4d5c2d"
+					}
+				],
+				"date": 1768491491026
+			},
+			"506876184441913354": {
+				"badges": [
+					{
+						"id": "premium",
+						"description": "Subscriber since Nov 22, 2025",
+						"icon": "2ba85e8026a8614b640c2837bcdfe21b",
+						"link": "https://discord.com/settings/premium"
+					},
+					{
+						"id": "hypesquad_house_1",
+						"description": "HypeSquad Bravery",
+						"icon": "8a88d63823d8a71cd5e390baa45efa02"
+					},
+					{
+						"id": "guild_booster_lvl1",
+						"description": "Server boosting since Nov 22, 2025",
+						"icon": "51040c70d4f20a921ad6674ff86fc95c",
+						"link": "https://discord.com/settings/premium"
+					},
+					{
+						"id": "legacy_username",
+						"description": "Originally known as ADiPOOL#6905",
+						"icon": "6de6d34650760ba5551a79732e98ed60"
+					},
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					},
+					{
+						"id": "orb_profile_badge",
+						"description": "Collected the Orb Profile Badge",
+						"icon": "83d8a1eb09a8d64e59233eec5d4d5c2d"
+					}
+				],
+				"date": 1766325833629
+			},
+			"515780151791976453": {
+				"badges": [
+					{
+						"id": "premium_tenure_6_month_v2",
+						"description": "Earned Apr 20, 2025. 6 months: Gold",
+						"icon": "2895086c18d5531d499862e41d1155a6",
+						"link": "https://discord.com/settings/premium"
+					},
+					{
+						"id": "hypesquad_house_1",
+						"description": "HypeSquad Bravery",
+						"icon": "8a88d63823d8a71cd5e390baa45efa02"
+					},
+					{
+						"id": "guild_booster_lvl4",
+						"description": "Server boosting since Apr 23, 2025",
+						"icon": "df199d2050d3ed4ebf84d64ae83989f8",
+						"link": "https://discord.com/settings/premium"
+					},
+					{
+						"id": "legacy_username",
+						"description": "Originally known as Doggybootsy#3442",
+						"icon": "6de6d34650760ba5551a79732e98ed60"
+					},
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					},
+					{
+						"id": "orb_profile_badge",
+						"description": "Collected the Orb Profile Badge",
+						"icon": "83d8a1eb09a8d64e59233eec5d4d5c2d"
+					}
+				],
+				"date": 1768491624064
+			},
+			"516101712587522055": {
+				"date": 1768492233213
+			},
+			"536991182035746816": {
+				"badges": [
+					{
+						"id": "bot_commands",
+						"description": "Supports Commands",
+						"icon": "6f9e37f9029ff57aef81db857890005e",
+						"link": "https://discord.com/blog/welcome-to-the-new-era-of-discord-apps?ref=badge"
+					},
+					{
+						"id": "automod",
+						"description": "Uses AutoMod",
+						"icon": "f2459b691ac7453ed6039bbcfaccbfcd"
+					}
+				],
+				"date": 1768492245909
+			},
+			"547905866255433758": {
+				"badges": [
+					{
+						"id": "bot_commands",
+						"description": "Supports Commands",
+						"icon": "6f9e37f9029ff57aef81db857890005e",
+						"link": "https://discord.com/blog/welcome-to-the-new-era-of-discord-apps?ref=badge"
+					}
+				],
+				"date": 1766325793100
+			},
+			"548067150825521152": {
+				"badges": [
+					{
+						"id": "hypesquad_house_2",
+						"description": "HypeSquad Brilliance",
+						"icon": "011940fd013da3f7fb926e4a1cd2e618"
+					},
+					{
+						"id": "legacy_username",
+						"description": "Originally known as thesheksplay#2606",
+						"icon": "6de6d34650760ba5551a79732e98ed60"
+					},
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					},
+					{
+						"id": "orb_profile_badge",
+						"description": "Collected the Orb Profile Badge",
+						"icon": "83d8a1eb09a8d64e59233eec5d4d5c2d"
+					}
+				],
+				"date": 1766325831842
+			},
+			"550613223733329920": {
+				"badges": [
+					{
+						"id": "bot_commands",
+						"description": "Supports Commands",
+						"icon": "6f9e37f9029ff57aef81db857890005e",
+						"link": "https://discord.com/blog/welcome-to-the-new-era-of-discord-apps?ref=badge"
+					}
+				],
+				"date": 1768492186386
+			},
+			"559426966151757824": {
+				"badges": [
+					{
+						"id": "bot_commands",
+						"description": "Supports Commands",
+						"icon": "6f9e37f9029ff57aef81db857890005e",
+						"link": "https://discord.com/blog/welcome-to-the-new-era-of-discord-apps?ref=badge"
+					},
+					{
+						"id": "automod",
+						"description": "Uses AutoMod",
+						"icon": "f2459b691ac7453ed6039bbcfaccbfcd"
+					}
+				],
+				"date": 1768491191453
+			},
+			"564133613105315840": {
+				"badges": [
+					{
+						"id": "legacy_username",
+						"description": "Originally known as Vaibhav Pandiya#7059",
+						"icon": "6de6d34650760ba5551a79732e98ed60"
+					}
+				],
+				"date": 1768516805663
+			},
+			"571027211407196161": {
+				"badges": [
+					{
+						"id": "bot_commands",
+						"description": "Supports Commands",
+						"icon": "6f9e37f9029ff57aef81db857890005e",
+						"link": "https://discord.com/blog/welcome-to-the-new-era-of-discord-apps?ref=badge"
+					}
+				],
+				"date": 1766325791496
+			},
+			"575329879206133810": {
+				"badges": [
+					{
+						"id": "hypesquad_house_3",
+						"description": "HypeSquad Balance",
+						"icon": "3aa41de486fa12454c3761e8e223442e"
+					},
+					{
+						"id": "legacy_username",
+						"description": "Originally known as Maddreamer#5523",
+						"icon": "6de6d34650760ba5551a79732e98ed60"
+					},
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					},
+					{
+						"id": "orb_profile_badge",
+						"description": "Collected the Orb Profile Badge",
+						"icon": "83d8a1eb09a8d64e59233eec5d4d5c2d"
+					}
+				],
+				"date": 1766325819104
+			},
+			"604825596924526592": {
+				"badges": [
+					{
+						"id": "premium_tenure_3_month_v2",
+						"description": "Earned Sep 16, 2025. 3 months: Silver",
+						"icon": "4514fab914bdbfb4ad2fa23df76121a6",
+						"link": "https://discord.com/settings/premium"
+					},
+					{
+						"id": "hypesquad_house_1",
+						"description": "HypeSquad Bravery",
+						"icon": "8a88d63823d8a71cd5e390baa45efa02"
+					},
+					{
+						"id": "guild_booster_lvl2",
+						"description": "Server boosting since Oct 20, 2025",
+						"icon": "0e4080d1d333bc7ad29ef6528b6f2fb7",
+						"link": "https://discord.com/settings/premium"
+					},
+					{
+						"id": "legacy_username",
+						"description": "Originally known as NDM#0005",
+						"icon": "6de6d34650760ba5551a79732e98ed60"
+					},
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					},
+					{
+						"id": "orb_profile_badge",
+						"description": "Collected the Orb Profile Badge",
+						"icon": "83d8a1eb09a8d64e59233eec5d4d5c2d"
+					}
+				],
+				"date": 1768491457716
+			},
+			"618924778731995147": {
+				"badges": [
+					{
+						"id": "premium_tenure_6_month_v2",
+						"description": "Earned Jun 18, 2025. 6 months: Gold",
+						"icon": "2895086c18d5531d499862e41d1155a6",
+						"link": "https://discord.com/settings/premium"
+					},
+					{
+						"id": "hypesquad_house_2",
+						"description": "HypeSquad Brilliance",
+						"icon": "011940fd013da3f7fb926e4a1cd2e618"
+					},
+					{
+						"id": "guild_booster_lvl3",
+						"description": "Server boosting since Sep 28, 2025",
+						"icon": "72bed924410c304dbe3d00a6e593ff59",
+						"link": "https://discord.com/settings/premium"
+					},
+					{
+						"id": "legacy_username",
+						"description": "Originally known as Hapfel#2708",
+						"icon": "6de6d34650760ba5551a79732e98ed60"
+					},
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					},
+					{
+						"id": "orb_profile_badge",
+						"description": "Collected the Orb Profile Badge",
+						"icon": "83d8a1eb09a8d64e59233eec5d4d5c2d"
+					}
+				],
+				"date": 1768491449719
+			},
+			"635901888218398771": {
+				"badges": [
+					{
+						"id": "hypesquad_house_2",
+						"description": "HypeSquad Brilliance",
+						"icon": "011940fd013da3f7fb926e4a1cd2e618"
+					},
+					{
+						"id": "legacy_username",
+						"description": "Originally known as Knoopo#0210",
+						"icon": "6de6d34650760ba5551a79732e98ed60"
+					},
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					}
+				],
+				"date": 1768491495591
+			},
+			"643786750262509579": {
+				"badges": [
+					{
+						"id": "premium_tenure_24_month_v2",
+						"description": "Earned Sep 19, 2023. 2 years: Diamond",
+						"icon": "0d61871f72bb9a33a7ae568c1fb4f20a",
+						"link": "https://discord.com/settings/premium"
+					},
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					}
+				],
+				"date": 1768491462793
+			},
+			"651095740390834176": {
+				"badges": [
+					{
+						"id": "bot_commands",
+						"description": "Supports Commands",
+						"icon": "6f9e37f9029ff57aef81db857890005e",
+						"link": "https://discord.com/blog/welcome-to-the-new-era-of-discord-apps?ref=badge"
+					}
+				],
+				"date": 1768492252082
+			},
+			"666824403216105483": {
+				"badges": [
+					{
+						"id": "hypesquad_house_1",
+						"description": "HypeSquad Bravery",
+						"icon": "8a88d63823d8a71cd5e390baa45efa02"
+					},
+					{
+						"id": "legacy_username",
+						"description": "Originally known as MeowIce#8543",
+						"icon": "6de6d34650760ba5551a79732e98ed60"
+					},
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					}
+				],
+				"date": 1768491481694
+			},
+			"676620914632294467": {
+				"badges": [
+					{
+						"id": "bot_commands",
+						"description": "Supports Commands",
+						"icon": "6f9e37f9029ff57aef81db857890005e",
+						"link": "https://discord.com/blog/welcome-to-the-new-era-of-discord-apps?ref=badge"
+					}
+				],
+				"date": 1768490483471
+			},
+			"678344927997853742": {
+				"badges": [
+					{
+						"id": "bot_commands",
+						"description": "Supports Commands",
+						"icon": "6f9e37f9029ff57aef81db857890005e",
+						"link": "https://discord.com/blog/welcome-to-the-new-era-of-discord-apps?ref=badge"
+					},
+					{
+						"id": "automod",
+						"description": "Uses AutoMod",
+						"icon": "f2459b691ac7453ed6039bbcfaccbfcd"
+					}
+				],
+				"date": 1768516797089
+			},
+			"684773505157431347": {
+				"badges": [
+					{
+						"id": "bot_commands",
+						"description": "Supports Commands",
+						"icon": "6f9e37f9029ff57aef81db857890005e",
+						"link": "https://discord.com/blog/welcome-to-the-new-era-of-discord-apps?ref=badge"
+					},
+					{
+						"id": "automod",
+						"description": "Uses AutoMod",
+						"icon": "f2459b691ac7453ed6039bbcfaccbfcd"
+					}
+				],
+				"date": 1768491283662
+			},
+			"685620341724151822": {
+				"badges": [
+					{
+						"id": "premium_tenure_12_month_v2",
+						"description": "Earned Oct 30, 2024. 1 year: Platinum",
+						"icon": "0334688279c8359120922938dcb1d6f8",
+						"link": "https://discord.com/settings/premium"
+					},
+					{
+						"id": "hypesquad_house_2",
+						"description": "HypeSquad Brilliance",
+						"icon": "011940fd013da3f7fb926e4a1cd2e618"
+					},
+					{
+						"id": "guild_booster_lvl4",
+						"description": "Server boosting since May 8, 2025",
+						"icon": "df199d2050d3ed4ebf84d64ae83989f8",
+						"link": "https://discord.com/settings/premium"
+					},
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					}
+				],
+				"date": 1768491479133
+			},
+			"689530613014986765": {
+				"date": 1768516792553
+			},
+			"692470645883404470": {
+				"badges": [
+					{
+						"id": "legacy_username",
+						"description": "Originally known as FerrisFatmi#1155",
+						"icon": "6de6d34650760ba5551a79732e98ed60"
+					}
+				],
+				"date": 1768492204664
+			},
+			"703886990948565003": {
+				"badges": [
+					{
+						"id": "bot_commands",
+						"description": "Supports Commands",
+						"icon": "6f9e37f9029ff57aef81db857890005e",
+						"link": "https://discord.com/blog/welcome-to-the-new-era-of-discord-apps?ref=badge"
+					}
+				],
+				"date": 1768492187583
+			},
+			"705153934758772746": {
+				"badges": [
+					{
+						"id": "premium_tenure_12_month_v2",
+						"description": "Earned Oct 17, 2024. 1 year: Platinum",
+						"icon": "0334688279c8359120922938dcb1d6f8",
+						"link": "https://discord.com/settings/premium"
+					},
+					{
+						"id": "hypesquad_house_3",
+						"description": "HypeSquad Balance",
+						"icon": "3aa41de486fa12454c3761e8e223442e"
+					},
+					{
+						"id": "guild_booster_lvl6",
+						"description": "Server boosting since Oct 17, 2024",
+						"icon": "991c9f39ee33d7537d9f408c3e53141e",
+						"link": "https://discord.com/settings/premium"
+					},
+					{
+						"id": "legacy_username",
+						"description": "Originally known as dimden#9531",
+						"icon": "6de6d34650760ba5551a79732e98ed60"
+					},
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					},
+					{
+						"id": "orb_profile_badge",
+						"description": "Collected the Orb Profile Badge",
+						"icon": "83d8a1eb09a8d64e59233eec5d4d5c2d"
+					}
+				],
+				"date": 1768490500206
+			},
+			"712158767604826113": {
+				"badges": [
+					{
+						"id": "hypesquad_house_1",
+						"description": "HypeSquad Bravery",
+						"icon": "8a88d63823d8a71cd5e390baa45efa02"
+					},
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					}
+				],
+				"date": 1768769333494
+			},
+			"720351927581278219": {
+				"badges": [
+					{
+						"id": "bot_commands",
+						"description": "Supports Commands",
+						"icon": "6f9e37f9029ff57aef81db857890005e",
+						"link": "https://discord.com/blog/welcome-to-the-new-era-of-discord-apps?ref=badge"
+					}
+				],
+				"date": 1768492195226
+			},
+			"735006613731278950": {
+				"badges": [
+					{
+						"id": "hypesquad_house_2",
+						"description": "HypeSquad Brilliance",
+						"icon": "011940fd013da3f7fb926e4a1cd2e618"
+					},
+					{
+						"id": "legacy_username",
+						"description": "Originally known as doreoreo#0038",
+						"icon": "6de6d34650760ba5551a79732e98ed60"
+					},
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					},
+					{
+						"id": "orb_profile_badge",
+						"description": "Collected the Orb Profile Badge",
+						"icon": "83d8a1eb09a8d64e59233eec5d4d5c2d"
+					}
+				],
+				"date": 1766325835126
+			},
+			"739860662133588100": {
+				"date": 1768516807901
+			},
+			"742804327801946163": {
+				"badges": [
+					{
+						"id": "hypesquad_house_3",
+						"description": "HypeSquad Balance",
+						"icon": "3aa41de486fa12454c3761e8e223442e"
+					},
+					{
+						"id": "legacy_username",
+						"description": "Originally known as Manan#6732",
+						"icon": "6de6d34650760ba5551a79732e98ed60"
+					}
+				],
+				"date": 1767005192865
+			},
+			"746381813806661652": {
+				"badges": [
+					{
+						"id": "hypesquad_house_1",
+						"description": "HypeSquad Bravery",
+						"icon": "8a88d63823d8a71cd5e390baa45efa02"
+					},
+					{
+						"id": "legacy_username",
+						"description": "Originally known as •°¯`Random´¯°•#4829",
+						"icon": "6de6d34650760ba5551a79732e98ed60"
+					},
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					},
+					{
+						"id": "orb_profile_badge",
+						"description": "Collected the Orb Profile Badge",
+						"icon": "83d8a1eb09a8d64e59233eec5d4d5c2d"
+					}
+				],
+				"date": 1768491484931
+			},
+			"750948645699846184": {
+				"badges": [
+					{
+						"id": "hypesquad_house_3",
+						"description": "HypeSquad Balance",
+						"icon": "3aa41de486fa12454c3761e8e223442e"
+					},
+					{
+						"id": "legacy_username",
+						"description": "Originally known as ARINDAM LegEND#0706",
+						"icon": "6de6d34650760ba5551a79732e98ed60"
+					},
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					}
+				],
+				"date": 1768724030630
+			},
+			"754577815558422698": {
+				"badges": [
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					}
+				],
+				"date": 1768492226934
+			},
+			"755353066571825152": {
+				"badges": [
+					{
+						"id": "hypesquad_house_1",
+						"description": "HypeSquad Bravery",
+						"icon": "8a88d63823d8a71cd5e390baa45efa02"
+					},
+					{
+						"id": "legacy_username",
+						"description": "Originally known as Elevenˢᵗ#6812",
+						"icon": "6de6d34650760ba5551a79732e98ed60"
+					}
+				],
+				"date": 1766325809081
+			},
+			"757494097375264830": {
+				"badges": [
+					{
+						"id": "premium_tenure_12_month_v2",
+						"description": "Earned Oct 15, 2024. 1 year: Platinum",
+						"icon": "0334688279c8359120922938dcb1d6f8",
+						"link": "https://discord.com/settings/premium"
+					},
+					{
+						"id": "hypesquad_house_2",
+						"description": "HypeSquad Brilliance",
+						"icon": "011940fd013da3f7fb926e4a1cd2e618"
+					},
+					{
+						"id": "guild_booster_lvl6",
+						"description": "Server boosting since Oct 15, 2024",
+						"icon": "991c9f39ee33d7537d9f408c3e53141e",
+						"link": "https://discord.com/settings/premium"
+					},
+					{
+						"id": "legacy_username",
+						"description": "Originally known as Monke#1630",
+						"icon": "6de6d34650760ba5551a79732e98ed60"
+					},
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					},
+					{
+						"id": "orb_profile_badge",
+						"description": "Collected the Orb Profile Badge",
+						"icon": "83d8a1eb09a8d64e59233eec5d4d5c2d"
+					}
+				],
+				"date": 1768491492119
+			},
+			"757494351164211262": {
+				"badges": [
+					{
+						"id": "hypesquad_house_2",
+						"description": "HypeSquad Brilliance",
+						"icon": "011940fd013da3f7fb926e4a1cd2e618"
+					}
+				],
+				"date": 1768516805091
+			},
+			"760890023280377946": {
+				"badges": [
+					{
+						"id": "hypesquad_house_3",
+						"description": "HypeSquad Balance",
+						"icon": "3aa41de486fa12454c3761e8e223442e"
+					},
+					{
+						"id": "legacy_username",
+						"description": "Originally known as Kulfie#9025",
+						"icon": "6de6d34650760ba5551a79732e98ed60"
+					},
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					},
+					{
+						"id": "orb_profile_badge",
+						"description": "Collected the Orb Profile Badge",
+						"icon": "83d8a1eb09a8d64e59233eec5d4d5c2d"
+					}
+				],
+				"date": 1768492237616
+			},
+			"762252011210407957": {
+				"badges": [
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					}
+				],
+				"date": 1768491264261
+			},
+			"762521509297651744": {
+				"badges": [
+					{
+						"id": "legacy_username",
+						"description": "Originally known as Ismail#9086",
+						"icon": "6de6d34650760ba5551a79732e98ed60"
+					}
+				],
+				"date": 1768491261720
+			},
+			"762938305632927764": {
+				"badges": [
+					{
+						"id": "hypesquad_house_2",
+						"description": "HypeSquad Brilliance",
+						"icon": "011940fd013da3f7fb926e4a1cd2e618"
+					},
+					{
+						"id": "legacy_username",
+						"description": "Originally known as aayush#6999",
+						"icon": "6de6d34650760ba5551a79732e98ed60"
+					},
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					}
+				],
+				"date": 1766325830083
+			},
+			"765759304728576011": {
+				"badges": [
+					{
+						"id": "premium_tenure_6_month_v2",
+						"description": "Earned Mar 8, 2025. 6 months: Gold",
+						"icon": "2895086c18d5531d499862e41d1155a6",
+						"link": "https://discord.com/settings/premium"
+					},
+					{
+						"id": "hypesquad_house_1",
+						"description": "HypeSquad Bravery",
+						"icon": "8a88d63823d8a71cd5e390baa45efa02"
+					},
+					{
+						"id": "guild_booster_lvl5",
+						"description": "Server boosting since Mar 8, 2025",
+						"icon": "996b3e870e8a22ce519b3a50e6bdd52f",
+						"link": "https://discord.com/settings/premium"
+					},
+					{
+						"id": "legacy_username",
+						"description": "Originally known as Resdryn#3876",
+						"icon": "6de6d34650760ba5551a79732e98ed60"
+					},
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					},
+					{
+						"id": "orb_profile_badge",
+						"description": "Collected the Orb Profile Badge",
+						"icon": "83d8a1eb09a8d64e59233eec5d4d5c2d"
+					}
+				],
+				"date": 1768491452622
+			},
+			"773780701999923260": {
+				"badges": [
+					{
+						"id": "hypesquad_house_2",
+						"description": "HypeSquad Brilliance",
+						"icon": "011940fd013da3f7fb926e4a1cd2e618"
+					},
+					{
+						"id": "legacy_username",
+						"description": "Originally known as DeViL#9515",
+						"icon": "6de6d34650760ba5551a79732e98ed60"
+					}
+				],
+				"date": 1768492212424
+			},
+			"776602408603222036": {
+				"badges": [
+					{
+						"id": "premium_tenure_36_month_v2",
+						"description": "Earned Dec 30, 2022. 3 years: Emerald",
+						"icon": "11e2d339068b55d3a506cff34d3780f3",
+						"link": "https://discord.com/settings/premium"
+					},
+					{
+						"id": "hypesquad_house_2",
+						"description": "HypeSquad Brilliance",
+						"icon": "011940fd013da3f7fb926e4a1cd2e618"
+					},
+					{
+						"id": "guild_booster_lvl9",
+						"description": "Server boosting since Dec 20, 2023",
+						"icon": "ec92202290b48d0879b7413d2dde3bab",
+						"link": "https://discord.com/settings/premium"
+					},
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					},
+					{
+						"id": "orb_profile_badge",
+						"description": "Collected the Orb Profile Badge",
+						"icon": "83d8a1eb09a8d64e59233eec5d4d5c2d"
+					}
+				],
+				"date": 1768491470713
+			},
+			"777264613867257857": {
+				"badges": [],
+				"date": 1768490478770
+			},
+			"780477810228854824": {
+				"badges": [
+					{
+						"id": "hypesquad_house_3",
+						"description": "HypeSquad Balance",
+						"icon": "3aa41de486fa12454c3761e8e223442e"
+					},
+					{
+						"id": "legacy_username",
+						"description": "Originally known as LightSaber#7924",
+						"icon": "6de6d34650760ba5551a79732e98ed60"
+					}
+				],
+				"date": 1766325807479
+			},
+			"781096142913798175": {
+				"badges": [
+					{
+						"id": "hypesquad_house_1",
+						"description": "HypeSquad Bravery",
+						"icon": "8a88d63823d8a71cd5e390baa45efa02"
+					},
+					{
+						"id": "legacy_username",
+						"description": "Originally known as Bully_Maguire#4139",
+						"icon": "6de6d34650760ba5551a79732e98ed60"
+					}
+				],
+				"date": 1768857782858
+			},
+			"781447752965554186": {
+				"badges": [
+					{
+						"id": "hypesquad_house_3",
+						"description": "HypeSquad Balance",
+						"icon": "3aa41de486fa12454c3761e8e223442e"
+					}
+				],
+				"date": 1768492215838
+			},
+			"783606955876417536": {
+				"badges": [
+					{
+						"id": "hypesquad_house_3",
+						"description": "HypeSquad Balance",
+						"icon": "3aa41de486fa12454c3761e8e223442e"
+					},
+					{
+						"id": "legacy_username",
+						"description": "Originally known as BIG A ッ#5645",
+						"icon": "6de6d34650760ba5551a79732e98ed60"
+					}
+				],
+				"date": 1766325786219
+			},
+			"786812415957663755": {
+				"badges": [
+					{
+						"id": "legacy_username",
+						"description": "Originally known as MR.Anay#7802",
+						"icon": "6de6d34650760ba5551a79732e98ed60"
+					},
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					}
+				],
+				"date": 1768492239083
+			},
+			"794586775526965248": {
+				"date": 1768516793557
+			},
+			"796959957533720607": {
+				"badges": [
+					{
+						"id": "hypesquad_house_3",
+						"description": "HypeSquad Balance",
+						"icon": "3aa41de486fa12454c3761e8e223442e"
+					},
+					{
+						"id": "legacy_username",
+						"description": "Originally known as AKgod#9716",
+						"icon": "6de6d34650760ba5551a79732e98ed60"
+					},
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					}
+				],
+				"date": 1768492205818
+			},
+			"798432388279435284": {
+				"badges": [
+					{
+						"id": "premium",
+						"description": "Subscriber since Nov 24, 2025",
+						"icon": "2ba85e8026a8614b640c2837bcdfe21b",
+						"link": "https://discord.com/settings/premium"
+					},
+					{
+						"id": "hypesquad_house_1",
+						"description": "HypeSquad Bravery",
+						"icon": "8a88d63823d8a71cd5e390baa45efa02"
+					},
+					{
+						"id": "legacy_username",
+						"description": "Originally known as κοοκιє#1121",
+						"icon": "6de6d34650760ba5551a79732e98ed60"
+					},
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					}
+				],
+				"date": 1766325836692
+			},
+			"802215635144015944": {
+				"badges": [
+					{
+						"id": "bot_commands",
+						"description": "Supports Commands",
+						"icon": "6f9e37f9029ff57aef81db857890005e",
+						"link": "https://discord.com/blog/welcome-to-the-new-era-of-discord-apps?ref=badge"
+					}
+				],
+				"date": 1768492225322
+			},
+			"809280861073178624": {
+				"badges": [
+					{
+						"id": "hypesquad_house_3",
+						"description": "HypeSquad Balance",
+						"icon": "3aa41de486fa12454c3761e8e223442e"
+					},
+					{
+						"id": "legacy_username",
+						"description": "Originally known as ToxicOP#2215",
+						"icon": "6de6d34650760ba5551a79732e98ed60"
+					},
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					}
+				],
+				"date": 1768492267104
+			},
+			"813400881541414942": {
+				"date": 1768492234679
+			},
+			"816177683854786560": {
+				"badges": [
+					{
+						"id": "hypesquad_house_2",
+						"description": "HypeSquad Brilliance",
+						"icon": "011940fd013da3f7fb926e4a1cd2e618"
+					},
+					{
+						"id": "guild_booster_lvl1",
+						"description": "Server boosting since Dec 25, 2025",
+						"icon": "51040c70d4f20a921ad6674ff86fc95c",
+						"link": "https://discord.com/settings/premium"
+					},
+					{
+						"id": "legacy_username",
+						"description": "Originally known as Adamare#8153",
+						"icon": "6de6d34650760ba5551a79732e98ed60"
+					},
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					},
+					{
+						"id": "orb_profile_badge",
+						"description": "Collected the Orb Profile Badge",
+						"icon": "83d8a1eb09a8d64e59233eec5d4d5c2d"
+					}
+				],
+				"date": 1768491466353
+			},
+			"825447200812171297": {
+				"date": 1768492213914
+			},
+			"83806103388815360": {
+				"badges": [
+					{
+						"id": "premium",
+						"description": "Subscriber since Dec 31, 2025",
+						"icon": "2ba85e8026a8614b640c2837bcdfe21b",
+						"link": "https://discord.com/settings/premium"
+					},
+					{
+						"id": "hypesquad_house_1",
+						"description": "HypeSquad Bravery",
+						"icon": "8a88d63823d8a71cd5e390baa45efa02"
+					},
+					{
+						"id": "legacy_username",
+						"description": "Originally known as hobbica#8423",
+						"icon": "6de6d34650760ba5551a79732e98ed60"
+					},
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					}
+				],
+				"date": 1768490503393
+			},
+			"839169646946418778": {
+				"badges": [],
+				"date": 1766325814280
+			},
+			"847760084858961940": {
+				"badges": [],
+				"date": 1768492260648
+			},
+			"848053536905494589": {
+				"date": 1766325784717
+			},
+			"851592746056548392": {
+				"badges": [
+					{
+						"id": "premium_tenure_24_month_v2",
+						"description": "Earned Dec 24, 2023. 2 years: Diamond",
+						"icon": "0d61871f72bb9a33a7ae568c1fb4f20a",
+						"link": "https://discord.com/settings/premium"
+					},
+					{
+						"id": "hypesquad_house_3",
+						"description": "HypeSquad Balance",
+						"icon": "3aa41de486fa12454c3761e8e223442e"
+					},
+					{
+						"id": "guild_booster_lvl1",
+						"description": "Server boosting since Dec 5, 2025",
+						"icon": "51040c70d4f20a921ad6674ff86fc95c",
+						"link": "https://discord.com/settings/premium"
+					},
+					{
+						"id": "legacy_username",
+						"description": "Originally known as !(❀❃DuckheadI❃❀)!#1072",
+						"icon": "6de6d34650760ba5551a79732e98ed60"
+					},
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					}
+				],
+				"date": 1768491475126
+			},
+			"85614143951892480": {
+				"badges": [
+					{
+						"id": "bot_commands",
+						"description": "Supports Commands",
+						"icon": "6f9e37f9029ff57aef81db857890005e",
+						"link": "https://discord.com/blog/welcome-to-the-new-era-of-discord-apps?ref=badge"
+					}
+				],
+				"date": 1768491448039
+			},
+			"858757806991343676": {
+				"date": 1768516794562
+			},
+			"859041721605947394": {
+				"badges": [],
+				"date": 1766329512643
+			},
+			"861184377253003264": {
+				"badges": [
+					{
+						"id": "hypesquad_house_1",
+						"description": "HypeSquad Bravery",
+						"icon": "8a88d63823d8a71cd5e390baa45efa02"
+					},
+					{
+						"id": "legacy_username",
+						"description": "Originally known as God Killer#9948",
+						"icon": "6de6d34650760ba5551a79732e98ed60"
+					},
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					},
+					{
+						"id": "orb_profile_badge",
+						"description": "Collected the Orb Profile Badge",
+						"icon": "83d8a1eb09a8d64e59233eec5d4d5c2d"
+					}
+				],
+				"date": 1768857337371
+			},
+			"865118856720678952": {
+				"badges": [
+					{
+						"id": "hypesquad_house_1",
+						"description": "HypeSquad Bravery",
+						"icon": "8a88d63823d8a71cd5e390baa45efa02"
+					},
+					{
+						"id": "legacy_username",
+						"description": "Originally known as Cantro8#1895",
+						"icon": "6de6d34650760ba5551a79732e98ed60"
+					}
+				],
+				"date": 1768492208032
+			},
+			"869243097559744534": {
+				"badges": [
+					{
+						"id": "hypesquad_house_2",
+						"description": "HypeSquad Brilliance",
+						"icon": "011940fd013da3f7fb926e4a1cd2e618"
+					},
+					{
+						"id": "legacy_username",
+						"description": "Originally known as Nikola_Tesla#4347",
+						"icon": "6de6d34650760ba5551a79732e98ed60"
+					}
+				],
+				"date": 1768492217414
+			},
+			"872896689822908476": {
+				"badges": [
+					{
+						"id": "legacy_username",
+						"description": "Originally known as Aaqib#6447",
+						"icon": "6de6d34650760ba5551a79732e98ed60"
+					}
+				],
+				"date": 1768516809327
+			},
+			"877563247312658432": {
+				"badges": [
+					{
+						"id": "hypesquad_house_2",
+						"description": "HypeSquad Brilliance",
+						"icon": "011940fd013da3f7fb926e4a1cd2e618"
+					},
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					}
+				],
+				"date": 1766912856929
+			},
+			"880341553808306216": {
+				"badges": [
+					{
+						"id": "legacy_username",
+						"description": "Originally known as PARTH SHAH#2748",
+						"icon": "6de6d34650760ba5551a79732e98ed60"
+					}
+				],
+				"date": 1767011387797
+			},
+			"884800931819048980": {
+				"badges": [
+					{
+						"id": "bot_commands",
+						"description": "Supports Commands",
+						"icon": "6f9e37f9029ff57aef81db857890005e",
+						"link": "https://discord.com/blog/welcome-to-the-new-era-of-discord-apps?ref=badge"
+					}
+				],
+				"date": 1768492231691
+			},
+			"884808202984775732": {
+				"badges": [
+					{
+						"id": "legacy_username",
+						"description": "Originally known as Rishwanth#0326",
+						"icon": "6de6d34650760ba5551a79732e98ed60"
+					},
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					},
+					{
+						"id": "orb_profile_badge",
+						"description": "Collected the Orb Profile Badge",
+						"icon": "83d8a1eb09a8d64e59233eec5d4d5c2d"
+					}
+				],
+				"date": 1766325817194
+			},
+			"891514079229931530": {
+				"badges": [
+					{
+						"id": "premium",
+						"description": "Subscriber since Dec 15, 2025",
+						"icon": "2ba85e8026a8614b640c2837bcdfe21b",
+						"link": "https://discord.com/settings/premium"
+					},
+					{
+						"id": "hypesquad_house_1",
+						"description": "HypeSquad Bravery",
+						"icon": "8a88d63823d8a71cd5e390baa45efa02"
+					},
+					{
+						"id": "guild_booster_lvl1",
+						"description": "Server boosting since Dec 15, 2025",
+						"icon": "51040c70d4f20a921ad6674ff86fc95c",
+						"link": "https://discord.com/settings/premium"
+					},
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					}
+				],
+				"date": 1768492201757
+			},
+			"892435828381466705": {
+				"badges": [
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					}
+				],
+				"date": 1768492227506
+			},
+			"900596671833067560": {
+				"badges": [
+					{
+						"id": "hypesquad_house_3",
+						"description": "HypeSquad Balance",
+						"icon": "3aa41de486fa12454c3761e8e223442e"
+					},
+					{
+						"id": "legacy_username",
+						"description": "Originally known as Spark#6128",
+						"icon": "6de6d34650760ba5551a79732e98ed60"
+					},
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					}
+				],
+				"date": 1768491186126
+			},
+			"907874676057985024": {
+				"badges": [
+					{
+						"id": "hypesquad_house_2",
+						"description": "HypeSquad Brilliance",
+						"icon": "011940fd013da3f7fb926e4a1cd2e618"
+					},
+					{
+						"id": "legacy_username",
+						"description": "Originally known as MortalDemigod#5740",
+						"icon": "6de6d34650760ba5551a79732e98ed60"
+					}
+				],
+				"date": 1768491268131
+			},
+			"921271428354039829": {
+				"badges": [],
+				"date": 1768492242248
+			},
+			"924426034772856853": {
+				"badges": [
+					{
+						"id": "legacy_username",
+						"description": "Originally known as jasoni121#1425",
+						"icon": "6de6d34650760ba5551a79732e98ed60"
+					}
+				],
+				"date": 1768492210598
+			},
+			"925085120636010607": {
+				"badges": [
+					{
+						"id": "premium_tenure_1_month_v2",
+						"description": "Earned Oct 1, 2025. 1 month: Bronze",
+						"icon": "4f33c4a9c64ce221936bd256c356f91f",
+						"link": "https://discord.com/settings/premium"
+					},
+					{
+						"id": "hypesquad_house_2",
+						"description": "HypeSquad Brilliance",
+						"icon": "011940fd013da3f7fb926e4a1cd2e618"
+					},
+					{
+						"id": "guild_booster_lvl2",
+						"description": "Server boosting since Oct 2, 2025",
+						"icon": "0e4080d1d333bc7ad29ef6528b6f2fb7",
+						"link": "https://discord.com/settings/premium"
+					},
+					{
+						"id": "legacy_username",
+						"description": "Originally known as Aditya Nair#8603",
+						"icon": "6de6d34650760ba5551a79732e98ed60"
+					},
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					},
+					{
+						"id": "orb_profile_badge",
+						"description": "Collected the Orb Profile Badge",
+						"icon": "83d8a1eb09a8d64e59233eec5d4d5c2d"
+					}
+				],
+				"date": 1766325820722
+			},
+			"92969646403121152": {
+				"badges": [
+					{
+						"id": "legacy_username",
+						"description": "Originally known as Froghut#3986",
+						"icon": "6de6d34650760ba5551a79732e98ed60"
+					}
+				],
+				"date": 1768490501692
+			},
+			"933645820627140621": {
+				"badges": [],
+				"date": 1768492253775
+			},
+			"934340052023144478": {
+				"badges": [],
+				"date": 1766325812185
+			},
+			"935459334488457226": {
+				"badges": [
+					{
+						"id": "hypesquad_house_1",
+						"description": "HypeSquad Bravery",
+						"icon": "8a88d63823d8a71cd5e390baa45efa02"
+					},
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					},
+					{
+						"id": "orb_profile_badge",
+						"description": "Collected the Orb Profile Badge",
+						"icon": "83d8a1eb09a8d64e59233eec5d4d5c2d"
+					}
+				],
+				"date": 1768491494998
+			},
+			"936929561302675456": {
+				"badges": [
+					{
+						"id": "bot_commands",
+						"description": "Supports Commands",
+						"icon": "6f9e37f9029ff57aef81db857890005e",
+						"link": "https://discord.com/blog/welcome-to-the-new-era-of-discord-apps?ref=badge"
+					}
+				],
+				"date": 1768553808681
+			},
+			"951051239498600459": {
+				"date": 1768516804262
+			},
+			"951853001902006322": {
+				"badges": [
+					{
+						"id": "legacy_username",
+						"description": "Originally known as 亗 COKE 彡 GAMER 亗#5739",
+						"icon": "6de6d34650760ba5551a79732e98ed60"
+					}
+				],
+				"date": 1768516809917
+			},
+			"952962930029260912": {
+				"badges": [
+					{
+						"id": "hypesquad_house_2",
+						"description": "HypeSquad Brilliance",
+						"icon": "011940fd013da3f7fb926e4a1cd2e618"
+					},
+					{
+						"id": "legacy_username",
+						"description": "Originally known as MrGamerIcey#9497",
+						"icon": "6de6d34650760ba5551a79732e98ed60"
+					},
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					},
+					{
+						"id": "orb_profile_badge",
+						"description": "Collected the Orb Profile Badge",
+						"icon": "83d8a1eb09a8d64e59233eec5d4d5c2d"
+					}
+				],
+				"date": 1768492258613
+			},
+			"976478213209468978": {
+				"badges": [
+					{
+						"id": "bot_commands",
+						"description": "Supports Commands",
+						"icon": "6f9e37f9029ff57aef81db857890005e",
+						"link": "https://discord.com/blog/welcome-to-the-new-era-of-discord-apps?ref=badge"
+					}
+				],
+				"date": 1768491195166
+			},
+			"977204977661517884": {
+				"badges": [
+					{
+						"id": "premium",
+						"description": "Subscriber since Nov 29, 2025",
+						"icon": "2ba85e8026a8614b640c2837bcdfe21b",
+						"link": "https://discord.com/settings/premium"
+					},
+					{
+						"id": "guild_booster_lvl1",
+						"description": "Server boosting since Dec 9, 2025",
+						"icon": "51040c70d4f20a921ad6674ff86fc95c",
+						"link": "https://discord.com/settings/premium"
+					},
+					{
+						"id": "legacy_username",
+						"description": "Originally known as CASS#1559",
+						"icon": "6de6d34650760ba5551a79732e98ed60"
+					},
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					},
+					{
+						"id": "orb_profile_badge",
+						"description": "Collected the Orb Profile Badge",
+						"icon": "83d8a1eb09a8d64e59233eec5d4d5c2d"
+					}
+				],
+				"date": 1766325822224
+			},
+			"990816234251636737": {
+				"badges": [
+					{
+						"id": "legacy_username",
+						"description": "Originally known as MAYANK07YT#8706",
+						"icon": "6de6d34650760ba5551a79732e98ed60"
+					},
+					{
+						"id": "quest_completed",
+						"description": "Completed a Quest",
+						"icon": "7d9ae358c8c5e118768335dbe68b4fb8",
+						"link": "https://discord.com/discovery/quests"
+					}
+				],
+				"date": 1768516808468
+			},
+			"991356265773154364": {
+				"date": 1768516810706
+			}
+		},
+		"badgeConfigs": {
+			"active_developer": {
+				"chat": true,
+				"memberList": true,
+				"dmsList": false,
+				"key": "active_developer"
+			},
+			"automod": {
+				"chat": true,
+				"memberList": true,
+				"dmsList": true,
+				"key": "automod"
+			},
+			"bot_commands": {
+				"chat": true,
+				"memberList": true,
+				"dmsList": true,
+				"key": "bot_commands"
+			},
+			"bug_hunter": {
+				"chat": false,
+				"memberList": false,
+				"dmsList": false,
+				"key": "bug_hunter"
+			},
+			"certified_moderator": {
+				"chat": true,
+				"memberList": true,
+				"dmsList": true,
+				"key": "certified_moderator"
+			},
+			"guild_booster": {
+				"chat": false,
+				"memberList": true,
+				"dmsList": false,
+				"key": "guild_booster"
+			},
+			"hypesquad": {
+				"chat": true,
+				"memberList": true,
+				"dmsList": true,
+				"key": "hypesquad"
+			},
+			"hypesquad_house_1": {
+				"chat": true,
+				"memberList": true,
+				"dmsList": true,
+				"key": "hypesquad_house_1"
+			},
+			"hypesquad_house_2": {
+				"chat": true,
+				"memberList": true,
+				"dmsList": true,
+				"key": "hypesquad_house_2"
+			},
+			"hypesquad_house_3": {
+				"chat": true,
+				"memberList": true,
+				"dmsList": true,
+				"key": "hypesquad_house_3"
+			},
+			"legacy_username": {
+				"chat": false,
+				"memberList": false,
+				"dmsList": true,
+				"key": "legacy_username"
+			},
+			"partner": {
+				"chat": true,
+				"memberList": true,
+				"dmsList": true,
+				"key": "partner"
+			},
+			"premium": {
+				"chat": false,
+				"memberList": true,
+				"dmsList": false,
+				"key": "premium"
+			},
+			"premium_early_supporter": {
+				"chat": true,
+				"memberList": true,
+				"dmsList": true,
+				"key": "premium_early_supporter"
+			},
+			"quest_completed": {
+				"chat": false,
+				"memberList": false,
+				"dmsList": false,
+				"key": "quest_completed"
+			},
+			"staff": {
+				"chat": true,
+				"memberList": true,
+				"dmsList": true,
+				"key": "staff"
+			},
+			"verified_developer": {
+				"chat": true,
+				"memberList": true,
+				"dmsList": true,
+				"key": "verified_developer"
+			}
+		}
+	}
+}

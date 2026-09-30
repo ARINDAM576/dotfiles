@@ -1,0 +1,18 @@
+{
+    "version": "1.13.4",
+    "drawerStates": {
+        "settings": {
+            "addons": true,
+            "store": true,
+            "customcss": true,
+            "editor": true,
+            "window": true,
+            "developer": true
+        }
+    },
+    "addonlistControls": {
+        "plugin": {
+            "view": "grid"
+        }
+    }
+}

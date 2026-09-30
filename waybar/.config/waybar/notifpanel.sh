@@ -1,0 +1,1 @@
+dunstctl history | jq -r '.data[] | "[\(.summary.data)] \(.body.data)"' | wofi --dmenu --prompt "Notification History"

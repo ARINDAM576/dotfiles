@@ -1,0 +1,499 @@
+/* Import the mocha palette - ensure mocha.css is in your waybar config folder */
+@import "mocha.css";
+
+* {
+    font-family: "FantasqueSansM Nerd Font", "FontAwesome";
+    font-size: 10pt;
+}
+
+/* 1. Transparent main bridge */
+window#waybar {
+    background-color: transparent;
+    border: none;
+    box-shadow: none;
+    color: @text;
+}
+
+/* 2. Floating Islands */
+.modules-left {
+    background-color: transparent;
+    border: none;
+    box-shadow: none;
+    padding: 0;
+    margin: 0;
+    margin-top: 2px;
+}
+
+#group-left-island,
+.modules-right {
+    background-color: rgba(30, 30, 46, 0.85); /* Catppuccin Mocha @base */
+    border: 1.5px solid @surface1;
+    border-radius: 12px;
+    padding: 0px 0px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.35);
+}
+
+#group-left-island {
+padding-right: 1px;
+margin-left: 2px;
+}
+
+.modules-right {
+    padding-left: 1px;
+}
+
+/* 3. Leave center container unstyled so it does not ghost on empty workspace */
+.modules-center {
+    background-color: transparent;
+    border: none;
+    box-shadow: none;
+    padding: 0;
+    margin: 0;
+}
+
+/* 4. Center Floating Island: #window itself acts as the pill */
+#window {
+font-family: "JetBrainsMono Nerd Font";
+font-style: italic;
+font-weight: bold;
+font-size: 10pt;
+color: @mauve;
+background-color: rgba(30, 30, 46, 0.85);
+border: 1.5px solid @surface1;
+border-radius: 12px;
+padding: 2px 14px;
+margin: 0;
+box-shadow: 0 4px 10px rgba(0, 0, 0, 0.35);
+}
+
+/* 5. Collapse Center Island when on an empty workspace */
+window#waybar.empty #window,
+#window.empty {
+background-color: transparent;
+border: none;
+box-shadow: none;
+padding: 0;
+margin: 0;
+}
+
+/* Visualizer Standalone Island (Separated with slow fade in/out) */
+#custom-cava {
+font-family: "JetBrainsMono Nerd Font";
+background-color: rgba(30, 30, 46, 0.85);
+border: 1.5px solid @surface1;
+border-radius: 12px;
+box-shadow: 0 4px 10px rgba(0, 0, 0, 0.35);
+padding: 0 8px;
+margin: 0 0 0 4px;
+font-size: 13px;
+opacity: 0.85;
+text-shadow: 0 0 6px rgba(137, 180, 250, 0.5);
+transition: opacity 0.5s ease, background-color 0.5s ease, border-color 0.5s ease;
+}
+
+#custom-cava.hidden {
+opacity: 0;
+background-color: transparent;
+border-color: transparent;
+box-shadow: none;
+text-shadow: none;
+}
+
+/* Apply JetBrains Mono Nerd Font to modules for fixed-width/icons */
+#workspaces, #clock, #cpu, #memory, #disk, #temperature,
+#backlight, #network, #pulseaudio, #wireplumber, #tray, #mode,
+#idle_inhibitor, #mpd, #custom-brightness, #custom-notification {
+font-family: "JetBrainsMono Nerd Font", monospace;
+font-size: 9pt;
+padding: 0 6px;
+color: @text;
+}
+
+window#waybar.hidden {
+    opacity: 0.2;
+}
+
+button {
+    box-shadow: inset 0 -3px transparent;
+    border: none;
+    border-radius: 0;
+}
+
+button:hover {
+    background: inherit;
+    box-shadow: inset 0 -3px @lavender;
+}
+
+#workspaces button {
+padding: 0 6px;
+margin: 0;
+background-color: transparent;
+color: @text;
+border-radius: 8px;
+}
+
+#workspaces button:hover {
+background: @surface0;
+}
+
+/* Big, prominent active workspace pill matching bar height */
+#workspaces button.active {
+background-color: @mauve;
+color: @base;
+min-width: 44px;
+padding: 0 10px;
+margin: 0 2px;
+border-radius: 8px;
+font-weight: bold;
+transition: all 0.4s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+#workspaces button.urgent {
+background-color: @red;
+color: @base;
+}
+
+/* Big, prominent clock pill matching bar height */
+#clock {
+background-color: @blue;
+color: @base;
+font-weight: bold;
+border-radius: 8px;
+padding: 0 12px;
+margin: 0 2px;
+}
+
+/* Battery Drawer Container */
+#group-battery-drawer {
+background-color: transparent;
+margin: 0 2px 0 0;
+}
+
+/* 1. Main Icon Pill */
+#battery.icon {
+background-color: @green;
+color: @base;
+font-size: 11pt;
+padding: 0 10px;
+margin: 0;
+border-radius: 8px;
+transition: all 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+#battery.icon.charging,
+#battery.icon.plugged:not(.warning):not(.critical) {
+background-color: @teal;
+color: @base;
+}
+
+#battery.icon.warning:not(.charging) {
+background-color: @peach;
+color: @base;
+font-size: 9.5pt;
+font-weight: bold;
+}
+
+#battery.icon.critical:not(.charging) {
+background-color: @red;
+color: @text;
+font-size: 9.5pt;
+font-weight: bold;
+animation-name: blink;
+animation-duration: 0.5s;
+animation-timing-function: steps(12);
+animation-iteration-count: infinite;
+animation-direction: alternate;
+}
+
+/* 2. Sliding Percentage */
+#battery.percentage {
+background: transparent;
+background-color: transparent;
+border: none;
+box-shadow: none;
+color: @text;
+font-family: "JetBrainsMono Nerd Font", monospace;
+font-size: 9pt;
+font-weight: bold;
+padding: 0 4px;
+margin: 0;
+}
+
+#battery.percentage.warning:not(.charging),
+#battery.percentage.critical:not(.charging) {
+min-width: 0;
+padding: 0;
+margin: 0;
+font-size: 0px;
+opacity: 0;
+background: transparent;
+border: none;
+box-shadow: none;
+animation: none;
+}
+
+@keyframes blink {
+    to { background-color: @text; color: @base; }
+}
+
+#cpu { background-color: @sapphire; color: @base; }
+#memory { background-color: @mauve; color: @base; }
+#disk { background-color: @maroon; color: @base; }
+#backlight { background-color: @yellow; color: @base; }
+#network { background-color: @sky; color: @base; }
+#network.disconnected { background-color: @peach; }
+
+/* Combined Volume + Mic + Brightness Pink Pill (Flush alignment) */
+#brightness-and-audio,
+.brightness-and-audio,
+#group-brightness-and-audio {
+background-color: @pink;
+border-radius: 12px;
+padding: 0 6px 0 2px;
+margin: 0 4px 0 0;
+transition: all 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+#brightness-and-audio #pulseaudio,
+#brightness-and-audio #custom-brightness,
+.brightness-and-audio #pulseaudio,
+.brightness-and-audio #custom-brightness,
+#group-brightness-and-audio #pulseaudio,
+#group-brightness-and-audio #custom-brightness {
+background-color: transparent;
+color: @base;
+padding: 0 4px;
+margin: 0;
+}
+
+#group-brightness-and-audio #custom-brightness {
+padding-left: 4px;
+padding-right: 4px;
+}
+
+#brightness-and-audio #pulseaudio.muted,
+.brightness-and-audio #pulseaudio.muted,
+#group-brightness-and-audio #pulseaudio.muted {
+background-color: transparent;
+color: @surface2;
+}
+
+#brightness-and-audio #pulseaudio.source-muted,
+.brightness-and-audio #pulseaudio.source-muted,
+#group-brightness-and-audio #pulseaudio.source-muted {
+margin-right: 0;
+padding-right: 2px;
+}
+
+#temperature { background-color: @peach; color: @base; }
+#temperature.critical { background-color: @red; }
+
+menu {
+    background-color: @base;
+    border: 1px solid @mauve;
+    border-radius: 8px;
+}
+
+#workspaces button, #clock, #battery.icon, #brightness-and-audio, .brightness-and-audio, #group-brightness-and-audio, #network, #cpu, #memory {
+transition: all 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+#workspaces button:hover {
+background-color: @surface0;
+color: @mauve;
+margin-top: -2px;
+margin-bottom: 2px;
+}
+
+#group-hardware {
+background-color: @surface0;
+border-radius: 15px;
+padding: 0 5px;
+margin: 4px;
+}
+
+#custom-hw-icon {
+color: @mauve;
+font-size: 14pt;
+padding: 0 10px;
+}
+
+#power-profiles-daemon { background-color: @overlay0; color: @base; }
+
+.not-memory {
+    margin-left: 5px;
+}
+
+#workspaces, #workspaces button, #clock {
+border-radius: 8px;
+}
+
+#custom-notification {
+color: #89b4fa;
+font-size: 11pt;
+padding: 0 8px;
+}
+
+#group-tray-drawer {
+background-color: #1e1e2e;
+border-radius: 10px;
+padding: 0 4px;
+margin: 4px 2px;
+}
+
+#custom-tray-toggle {
+color: #cdd6f4;
+padding: 0 6px;
+transition: all 0.2s ease;
+}
+
+#custom-tray-toggle:hover {
+color: #89b4fa;
+}
+
+#tray {
+padding: 0 6px;
+}
+
+#tray > .needs-attention {
+background-color: #f38ba8;
+}
+
+/* Privacy module integration inside pink pill */
+#brightness-and-audio #privacy,
+#group-brightness-and-audio #privacy {
+background-color: transparent;
+padding: 0;
+margin: 0;
+}
+
+#privacy-item.audio-in {
+background-color: transparent;
+color: #d20f39;
+font-size: 10.5pt;
+padding: 0 2px;
+margin: 0;
+border-radius: 4px;
+text-shadow: 0 0 2px @base, 0 1px 3px rgba(30, 30, 46, 0.8);
+}
+
+#privacy-item.audio-in image {
+-gtk-icon-source: url("/home/arindamlegend/.config/waybar/icons/speaking.svg");
+-gtk-icon-transform: scale(0.9);
+}
+
+tooltip {
+    background-color: rgba(24, 24, 37, 0.98);
+    border: 1.5px solid @mauve;
+    border-radius: 10px;
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.7);
+    padding: 2px;
+}
+
+tooltip label {
+    font-family: "JetBrainsMono Nerd Font", monospace;
+    font-size: 9pt;
+    font-weight: 500;
+    color: #cdd6f4;
+    padding: 2px 4px;
+}
+
+#workspaces {
+padding-right: 10px;
+}
+
+
+/* Container must stay transparent to prevent the GTK drawer clipping bug */
+#group-network-drawer {
+background-color: transparent;
+margin: 0 4px 0 0;
+padding: 0;
+}
+
+/* Icon Capsule (matches the height and curves of your pink pill) */
+#network.icon {
+background-color: @sky;
+color: @base;
+border-radius: 12px;
+font-size: 14pt;
+min-width: 16px;
+padding: 0 6px;
+padding-left: 5px;
+padding-right: 11px;
+margin: 2px;
+/* padding-left: 0px; */
+/* padding-right: 14px; */
+transition: all 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+#network.icon.ethernet {
+padding-top: 1px;
+padding-left: 8px;
+padding-right: 7px;
+font-size: 9.5pt;
+}
+
+/* Sliding label child */
+#network.name {
+background-color: transparent;
+color: @text;
+border-radius: 8px;
+font-size: 9pt;
+font-weight: bold;
+padding: 0 8px;
+padding-left: 2px;
+margin-left: 4px;
+}
+
+#network.icon.disconnected {
+background-color: @surface0;
+color: @peach;
+}
+
+/* --- Clock Drawer & Hover Animation --- */
+#group-clock-drawer {
+margin: 0 2px;
+padding: 0;
+}
+
+/* Spacing for modules revealed during hover expansion */
+.clock-child {
+    margin-left: 4px;
+}
+
+#group-clock-drawer #tray {
+background-color: #1e1e2e;
+border-radius: 8px;
+padding: 0 8px;
+margin: 0 2px;
+}
+
+#group-clock-drawer #custom-power {
+color: @red;
+padding: 0 8px;
+margin: 0 2px;
+font-size: 11pt;
+transition: color 0.2s ease/*, transform 0.2s ease*/;
+}
+
+#group-clock-drawer #custom-power:hover {
+color: #f38ba8;
+/* transform: scale(1.1); */
+}
+
+
+#group-left-island,
+.modules-right,
+#window,
+#custom-cava {
+/* X-offset: 0, Y-offset: 3px, Blur: 0, Spread: 0 */
+box-shadow: 0 1px 1px 1px rgba(0, 0, 0, 0.1);
+text-shadow: 1px 1px 2px alpha(@crust, 0.2);
+}
+
+#window, #custom-cava {
+    text-shadow: 0 0 6px rgba(137, 180, 250, 0.5);
+}
+
+#workspaces {
+    text-shadow: 1px 1px 1px alpha(@crust, 0.3);
+}

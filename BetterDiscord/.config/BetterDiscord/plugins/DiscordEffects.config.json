@@ -1,0 +1,10 @@
+{
+    "version": "2.1.9",
+    "settings": {
+        "effect": "snowflakes",
+        "spanCount": "5",
+        "flakeopacity": 0.7,
+        "flakemaxspeed": 12.5
+    },
+    "firstlaunch": "false"
+}
