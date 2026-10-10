@@ -9,6 +9,20 @@
     sky: #89dceb;
 }
 
+
+configuration {
+    /* Click-to-close workaround (true click-outside isn't possible on
+       Hyprland - the popup's layer holds exclusive input). This makes
+       row-accept fire on mouse release, and rebinds cancel to a primary
+       click; a click that isn't over a row falls through to cancel and
+       closes the popup, while clicking an actual row still works normally. */
+    hover-select: true;
+    me-select-entry: "";
+    me-accept-entry: "!MousePrimary";
+    kb-cancel: "Escape,MousePrimary";
+}
+
+
 window {
     transparency: "real";
     background-color: @bg;

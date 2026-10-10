@@ -170,7 +170,7 @@ margin: 0 2px 0 0;
 }
 
 /* 1. Main Icon Pill */
-#battery.icon {
+#battery.icon, #custom-desktop, #custom.desktop, #custom-desktop.desktop {
 background-color: @green;
 color: @base;
 font-size: 11pt;

@@ -1,4 +1,3 @@
-
 * {
     font: "JetBrainsMono Nerd Font 10";
     bg: rgba(30, 30, 46, 0.2);
@@ -8,6 +7,18 @@
     mauve: #cba6f7;
     border-col: #45475a;
     pink: #f5c2e7;
+}
+
+configuration {
+    /* Click-to-close workaround (true click-outside isn't possible on
+       Hyprland - the popup's layer holds exclusive input). This makes
+       row-accept fire on mouse release, and rebinds cancel to a primary
+       click; a click that isn't over a row falls through to cancel and
+       closes the popup, while clicking an actual row still works normally. */
+    hover-select: true;
+    me-select-entry: "";
+    me-accept-entry: "!MousePrimary";
+    kb-cancel: "Escape,MousePrimary";
 }
 
 window {
@@ -23,12 +34,26 @@ window {
        ever changes. y-offset is small since Hyprland's layer-shell already
        reserves the bar's height, so this only needs to clear the gap
        between the bar and the popup, not the whole bar itself. */
-    location: north east;
+    /*THIS IS AUTO-GEN: location: north east;
     anchor: north;
-    x-offset: -111px;
+    x-offset: -300px;
     y-offset: 8px;
 
-    width: 340px;
+    width: 420px;
+    padding: 10px;*/
+
+    /* Anchor point stays top-right of the screen, but "anchor: north" means
+       the WINDOW's top-center (not its corner) is what gets placed there -
+       so it self-centers under the pill instead of drifting if its width
+       ever changes. y-offset is small since Hyprland's layer-shell already
+       reserves the bar's height, so this only needs to clear the gap
+       between the bar and the popup, not the whole bar itself. */
+    location: north east;
+    anchor: north;
+    x-offset: -100px;
+    y-offset: 8px;
+
+    width: 420px;
     padding: 10px;
 }
 
@@ -56,8 +81,15 @@ listview {
     columns: 1;
     lines: 3;
     cycle: true;
-    scrollbar: false;
+    scrollbar: true;
+    scrollbar-width: 4px;
     spacing: 4px;
+}
+
+scrollbar {
+    background-color: @surface;
+    handle-color: @mauve;
+    border-radius: 4px;
 }
 
 element {

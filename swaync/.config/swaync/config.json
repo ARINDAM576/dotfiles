@@ -23,7 +23,7 @@
   "text-empty": "No Notifications",
   "scripts": {
     "sound-script": {
-      "exec": "paplay --volume=32768 ~/.config/swaync/notification.ogg",
+      "exec": "~/.config/swaync/notif.sh",
       "app-name": ".*"
     }
   },

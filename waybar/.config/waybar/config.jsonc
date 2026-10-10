@@ -157,7 +157,8 @@
         },
         "modules": [
             "battery#icon",
-            "battery#percentage"
+            "battery#percentage",
+            "custom/desktop"
         ]
     },
     "battery#icon": {
@@ -194,6 +195,15 @@
         "format-charging": "{capacity}%",
         "format-plugged": "{capacity}%",
         "tooltip": false
+    },
+    "custom/desktop": {
+        "exec": "~/.config/waybar/battery.sh",
+        "return-type": "json",
+        "format": " {icon} ",
+        "format-icons": {
+            "desktop": "󰚥"
+        },
+        "tooltip": true
     },
     "power-profiles-daemon": {
         "on-click": "paplay --volume=32768 ~/.config/waybar/sounds/click.mp3",
