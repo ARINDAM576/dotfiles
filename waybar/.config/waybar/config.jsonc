@@ -304,8 +304,10 @@
     },
     "custom/power": {
         "format" : " ⏻  ",
-        "tooltip": false,
-        "menu": "on-click",
+        "tooltip": true,
+        "tooltip-format": "Right-click to see shortcut menu.\nThe Shutdown shortcut sets a timer for 1 minute.",
+        "on-click": "wlogout",
+        "menu": "on-click-right",
         "menu-file": "/home/arindamlegend/.config/waybar/power_menu.xml",
         "menu-actions": {
             "Shutdown": "shutdown",

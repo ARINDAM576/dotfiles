@@ -1,0 +1,51 @@
+* {
+  background-image: none;
+  box-shadow: none;
+}
+
+window {
+  background-color: rgba(30, 30, 46, 0.20);
+}
+
+button {
+  border-radius: 10;
+  border-color: #cba6f7;
+  text-decoration-color: #cdd6f4;
+  color: #cdd6f4;
+  background-color: rgba(48, 50, 66, 0.20);
+  border-style: solid;
+  border-width: 2px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 34%;
+}
+
+button:focus, button:active, button:hover {
+  /* 20% Overlay 2, 80% mantle */
+  background-color: rgba(48, 50, 66, 0.80);
+  outline-style: none;
+}
+
+#lock {
+background-image: image(url("/home/arindamlegend/.config/wlogout/icons/lock.svg"));
+}
+
+#logout {
+background-image: image(url("/home/arindamlegend/.config/wlogout/icons/logout.svg"));
+}
+
+#suspend {
+background-image: image(url("/home/arindamlegend/.config/wlogout/icons/suspend.svg"));
+}
+
+#hibernate {
+background-image: image(url("/home/arindamlegend/.config/wlogout/icons/hibernate.svg"));
+}
+
+#shutdown {
+background-image: image(url("/home/arindamlegend/.config/wlogout/icons/shutdown.svg"));
+}
+
+#reboot {
+background-image: image(url("/home/arindamlegend/.config/wlogout/icons/reboot.svg"));
+}
